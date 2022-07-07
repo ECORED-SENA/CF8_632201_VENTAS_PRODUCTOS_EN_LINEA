@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/CF4_PROMOCION_CONTENIDOS_DIGITALES/](https://ecored-sena.github.io/CF4_PROMOCION_CONTENIDOS_DIGITALES/)
+[https://ecored-sena.github.io/CF8_632201_VENTAS_PRODUCTOS_EN_LINEA/](https://ecored-sena.github.io/CF8_632201_VENTAS_PRODUCTOS_EN_LINEA/)
 
 #
 
