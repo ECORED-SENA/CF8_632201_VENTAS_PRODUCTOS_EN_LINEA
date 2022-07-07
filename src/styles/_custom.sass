@@ -3,8 +3,23 @@
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
     top: 40%
-    right: 50%
+    right: 5%
   &-2
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 10%
+    right: 30%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 18%
+    right: 50%
+  &-4
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    bottom: 40%
+    right: 80%
+  &-5
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
     top: 51%
@@ -17,3 +32,258 @@
 
   100%
     transform: translateY(0px)
+
+//// Pasos 
+
+.pasos-a__circle
+  .h2 
+    color: white !important
+
+//// image size
+.img20
+  width: 20px
+.img60
+  width: 60px
+.img90
+  width: 90px
+.img190
+  width: 190px
+
+///// Color
+.clr--white
+  background-color: #ffffff
+.clr--gray
+  background-color: #F9F9F9
+.clr--purple
+  background-color: #ECE5F7 
+.clr--purple02
+  background-color: #8C5BE1
+.clr--paleYellow
+  background-color: #FDF3E1
+.clr--purple
+  background-color: #ECE5F7
+.clr--paleBlue
+  background-color: #ECF3FB
+.clr--paleGreen
+  background-color: #DEF2F4
+.clr--grad_Green_01
+  background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(222,242,244,1) 50%)
+.clr--grad_Blue_01
+  background: linear-gradient(0deg, rgba(10,83,143,1) 32%, rgba(11,103,209,1) 100%)
+.clr--grad_Purple_01
+  background: linear-gradient(90deg, rgba(236,229,247,1) 34%, rgba(255,255,255,1) 100%)
+
+.txt-yellow
+  color: #FFCF7D
+
+//// highlight
+.customH3
+  display: inline-block
+  margin-bottom: 0
+  padding-bottom: 7px
+  border-bottom: 3px solid #43A99B
+
+.hg--purple
+  background-color: 
+
+///// Layout
+.hg--100
+  position: relative
+  height: 100%
+.hr--line
+  width: 100%
+  height: 2px
+  margin-bottom: 1rem
+  background-color: #43A99B
+.bottomRight
+  position: absolute
+  bottom: 0
+  right: 5%
+
+.middleY
+  top: 50%
+  transform: translateY(-50%)  
+
+//// Cajones color
+.cajon
+  &.cjn--green
+    background-color: #DEF2F4
+    &::before
+      background-color: #43A99B
+
+  &.cjn--purple
+    background-color: #ECE5F7
+    &::before
+      background-color: #8C5BE1
+
+//// Tarjetas
+.crd
+  &.brd--rad
+    border-radius: 20px 
+  &.crd--gradMint
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(222,242,244,1) 50%)
+
+  &.crd--avatarH
+    position: relative
+    height: 100%       
+    & > *
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      bottom: 0
+      right: 0
+      width: calc( 100% - 65px )
+      height: 100%
+      background-color: #ECF3FB
+
+  &.crd--avatarH_02
+    position: relative
+    height: 100%       
+    & > *
+      position: relative
+    &::before
+      content: ""
+      position: absolute
+      bottom: 0
+      right: 0
+      width: calc( 100% - 65px )
+      height: 100%
+      background-color: #FDF3E1 
+      border-radius: 20px
+
+
+///// Custom Bg 
+.bg_img_01, .bg_img_02, .bg_img_03, .bg_gradient_01, .bg_gradient_03
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: ""
+    position: absolute
+    top: 0
+    left: -48px
+    width: calc( 100% + 96px )
+    height: 100%    
+
+.bg_img_01
+  &::before
+    background-image: url("../assets/curso/temas/recursos/bg_img_01.png")
+    background-size: cover
+    background-repeat: no-repeat
+
+.bg_img_02
+  &::before
+    background-image: url("../assets/curso/temas/recursos/bg_img_02.png")
+    background-size: cover
+    background-repeat: no-repeat
+
+.bg_img_03
+  &::before
+    background-image: url("../assets/curso/temas/recursos/bg_img_03.png")
+    background-size: cover
+    background-repeat: no-repeat
+
+.slyderB_bg_01
+  position: relative
+  width: 100% 
+  background-image: url("../assets/curso/temas/recursos/slyderB_gb_01.svg") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 15px
+
+.bg_gradient_01
+  &::before
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(236,243,251,1) 35%, rgba(236,243,251,1) 70%, rgba(255,255,255,1) 100%)
+.bg_gradient_02  
+  background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(236,243,251,1) 50%)
+.bg_gradient_03
+  &::before
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(236,229,247,1) 35%, rgba(236,229,247,1) 70%, rgba(255,255,255,1) 100%)
+  
+
+///// custom Slyder F
+.horizontal-scroll
+  align-items: stretch !important
+
+.slyder-f__btn
+  i
+    color: #ECAB3A
+
+///////// Card hover
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: rgba(255, 247, 230, 1) 
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
+
+///// SLyder A tipo B Custom
+.slyder-a__tipo-b .slyder-a__btn--atrs
+  background-color: #EEAC3A
+
+.slyder-a__tipo-b .slyder-a__btn--sigt
+  background-color: #EEAC3A
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs  
+  border: none
+
+.slyder-a__bullets__item--active
+  background-color: #8C5BE1 !important
+  border: none
+
+.slyder-a__bullets__item
+  background-color: #AFAFAF  
+
+@media (max-width: 990px)    
+  .slyder-a__bullets__item
+    width: 8px
+    height: 8px
+    margin: 0 3px
+
+////// Slyder B
+.slyder__btn
+  background-color: #AFAFAF
+  &:hover
+    background-color: #EEAC3A
+
+////// Number
+.number
+  position: relative
+  & > *
+    position: relative
+  &::before
+    content: attr(data-number)   
+    position: absolute
+    top: -6rem
+    left: 0rem
+    width: 100%
+    height: 100%
+    font-weight: 700
+    font-size: 120pt
+    color: #E1E2E5
+    z-index: 0
+
+///// Acordion amarillo
+.acordion
+  .acordion__activo
+    background-color: #FDF3E1 !important
+
+.acordion__accion__btn--a
+  background-color: #EEAC3A
