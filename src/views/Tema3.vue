@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span.text-white 3
-      h1 datos
+      h1 Datos
 
     p.mb-4 Hoy en día la tecnología es la mejor forma de comunicarse entre sí. Esto gracias a la manera en que se digitalizan la información y los datos generados de acuerdo a un tema determinado, el análisis cuidadoso de dichos datos permite, a cualquier organización, la toma de decisiones acertadas.
 
@@ -146,7 +146,7 @@
       separador   
 
       #t_3_2.titulo-segundo.color-acento-contenido
-        h2 3.2 Recolección de Datos     
+        h2 3.2 Datos cuantitativos y datos cualitativos    
 
       p Al momento de analizar los datos se deben aplicar diferentes técnicas según el tipo de información que se desee recopilar, para conocerlas revise con atención el siguiente recurso educativo: 
 
@@ -157,7 +157,7 @@
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido
-      h2 3.3 Recolección de Datos
+      h2 3.3 Interpretación de resultados
 
     p La interpretación de datos es la parte final de un proceso de investigación y recolección de información, y para llegar a esta última etapa es importante contar con una serie de elementos que le brindaran el resultado esperados de acuerdo a su estrategia de interacción por intermedio de los insumos anteriormente contextualizados. 
 

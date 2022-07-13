@@ -21,7 +21,10 @@
       #t_1_1.titulo-segundo.color-acento-contenido
         h2 1.1 Definición y etapas
 
-      p La fidelización de clientes es un concepto de marketing cuyo objetivo es conseguir, mediante diversas estrategias y técnicas de venta, que el consumidor, que ya haya adquirido diversos productos o servicios, siga comprando y se convierta en un cliente habitual.
+      p.mb-5 La fidelización de clientes es un concepto de #[em marketing] cuyo objetivo es conseguir, mediante diversas estrategias y técnicas de venta, que el consumidor, que ya haya adquirido diversos productos o servicios, siga comprando y se convierta en un cliente habitual.
+
+      h3 Etapas de fidelización de clientes
+      p.mb-4 La lealtad del cliente asume un impacto directo no solo en el desempeño del negocio, sino también en la imagen de marca. El impacto de los clientes satisfechos puede ser más importante que cualquier estrategia de #[em marketing].
 
       .row.justify-content-center.align-items-center.mb-4
         .col-lg-4.col-8.mb-4.mb-lg-0
@@ -50,7 +53,7 @@
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
             h4 La primera visita
-            p Es el momento en el que una persona se dirige a determinada  empresa para observar y analizar los productos y/o servicios y saber si le gustan o no, puede ser que el cliente no compre nada (esto es muy frecuente),o que el cliente compre, pero en otro momento (por lo general es un cliente en duda), o  puente pasar también, que compre inmediatamente (por lo general el 25% de los clientes que entran a un punto de venta por primera vez y realizan una compra, se convierten en clientes fieles)   
+            p Es el momento en el que una persona se dirige a determinada  empresa para observar y analizar los productos y/o servicios y saber si le gustan o no, puede ser que el cliente no compre nada (esto es muy frecuente), o que el cliente compre, pero en otro momento (por lo general es un cliente en duda), o  puente pasar también, que compre inmediatamente (por lo general el 25% de los clientes que entran a un punto de venta por primera vez y realizan una compra, se convierten en clientes fieles)   
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/t1/t1_08.png', alt='')
@@ -148,7 +151,7 @@
               :style="{'background-image': `url(${require('@/assets/curso/temas/t1/t1_18.png')})`}"
             )
             .bloque-texto-g__texto.p-4
-              p.mb-0 La importancia de la retroalimentación mediante la medición de ventas y estadísticas, permite tener un programa de fidelización de clientes óptimo, pues esta facilita a una empresa tener una proyección de ventas acertada, un presupuesto de compras apropiado, estrategias de marketing empresarial convenientes, elementos que resultan fundamentales para atraer nuevos clientes.
+              p.mb-0 La importancia de la retroalimentación mediante la medición de ventas y estadísticas, permite tener un programa de fidelización de clientes óptimo, pues esta facilita a una empresa tener una proyección de ventas acertada, un presupuesto de compras apropiado, estrategias de #[em marketing] empresarial convenientes, elementos que resultan fundamentales para atraer nuevos clientes.
 
       p La retroalimentación permite fortalecer la relación empresa-cliente, además de establecer estrategias para la mejora e innovación de los productos y servicios.  Las mediciones estadísticas llevan a identificar qué tan satisfechos están los clientes con los productos y la atención prestada, por otro lado, por medio de ellas, también es posible saber si los clientes recomendarían a otros dichos productos o servicios. Esta es una de las mejores formas de identificar cómo se encuentra la empresa frente a la competencia.
 

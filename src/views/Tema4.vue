@@ -38,12 +38,12 @@
               .col
                 p.mb-0 Los reportes de ventas, son los datos que le permiten a una empresa, tener un informe detallado de cómo los vendedores están generando las ventas con clientes fijos y nuevos, de cuáles decisiones toman sus gerentes para la corrección de fallas y mejoramiento de los proyectos puntuales de ventas y el avance en el logro de los objetivos generales de su empresa.
 
-      p Los reportes de ventas deben incluir, los ingresos de ventas semanales, número de llamadas realizadas por el departamento comercial a los LEADS y clientes fijos, las visitas comerciales, los porcentajes de incremento en las cuotas de mercado, el promedio de adquisición de clientes nuevos, los indicadores de fidelidad y retención de clientes y las ventas efectivas realizadas por cada vendedor.
+      p Los reportes de ventas deben incluir, los ingresos de ventas semanales, número de llamadas realizadas por el departamento comercial a los #[em LEADS] y clientes fijos, las visitas comerciales, los porcentajes de incremento en las cuotas de mercado, el promedio de adquisición de clientes nuevos, los indicadores de fidelidad y retención de clientes y las ventas efectivas realizadas por cada vendedor.
 
     separador
 
     #t_4_1.titulo-segundo.color-acento-contenido
-      h2 4.1 Sentación de reportes
+      h2 4.1 Presentación de reportes
 
     .row.justify-content-center.mb-4
       .col-lg-8
@@ -149,7 +149,7 @@
     #t_4_2.titulo-segundo.color-acento-contenido
       h2 4.2 Seguimiento del reporte
 
-    p.mb-4 El seguimiento a los reportes de ventas, deben ser complementados con el equipo de mercadeo, para integrar de esta manera a sus posibles clientes (LEADS). Cuando un equipo de mercadeo genera campañas de visualización de una empresa hacia los LEADS, el equipo de ventas, debe actuar de acuerdo a la información que se suministre, para cerrar negocios con los nuevos LEADS y de esta manera, volverlos clientes de una empresa. Para hacer este cierre de ventas, es necesario analizar los datos y crear las condiciones favorables para un mejor acompañamiento al equipo de ventas.
+    p.mb-4 El seguimiento a los reportes de ventas, deben ser complementados con el equipo de mercadeo, para integrar de esta manera a sus posibles clientes (#[em LEADS]). Cuando un equipo de mercadeo genera campañas de visualización de una empresa hacia los #[em LEADS], el equipo de ventas, debe actuar de acuerdo a la información que se suministre, para cerrar negocios con los nuevos #[em LEADS] y de esta manera, volverlos clientes de una empresa. Para hacer este cierre de ventas, es necesario analizar los datos y crear las condiciones favorables para un mejor acompañamiento al equipo de ventas.
 
     
     .row.justify-content-center.mb-5
@@ -160,7 +160,7 @@
           )
           .bloque-texto-g__texto.p-4
             p #[strong Tenga en cuenta que:]
-            p Después de obtener los datos de los LEADS, los gerentes de las empresas deben dar respuesta a las siguientes preguntas: #[strong ¿cómo se debe estructurar el proceso de seguimiento a los reportes de ventas? ¿cómo se establece el “quién, cuándo y qué del seguimiento de ventas?, ¿se tiene un plan de ventas efectivo y fácil de seguir para cerrar los acuerdos?”]
+            p Después de obtener los datos de los #[em LEADS], los gerentes de las empresas deben dar respuesta a las siguientes preguntas: #[strong ¿cómo se debe estructurar el proceso de seguimiento a los reportes de ventas? ¿cómo se establece el “quién, cuándo y qué del seguimiento de ventas?, ¿se tiene un plan de ventas efectivo y fácil de seguir para cerrar los acuerdos?”]
 
     p.text-center.mb-5 Revise el siguiente recurso educativo y conozca algunos consejos para hacer seguimiento al reporte de ventas: 
 
@@ -169,8 +169,8 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="01") 
-              h4.ps-4 <i>Determine cuáles LEADS están listos para hacerles seguimiento:</i>  
-              p.ps-4.mb-0 Debe hacer un análisis de los datos que obtenga de los LEADS, sobre el interés que han mostrado por los productos y servicios ofertados, cuál es el tipo de empresa y que necesidades presenta. Con estos datos puede determinar el cliente puede convertirse en un cliente fiel y determinar el trato que debe tener, es decir realizar una clasificación del cliente exponencial a futuro y con esto, deberá disponer de la persona de ventas adecuada que logre efectivamente cerrar la venta con LEAD. Esta clasificación de LEADS, le permite, contactar en el momento adecuado, escoger su personal acertado, convencer a su nuevo cliente más fácilmente y conseguir clientes fieles de manera óptima.              
+              h4.ps-4 <i>Determine cuáles #[em LEADS] están listos para hacerles seguimiento:</i>  
+              p.ps-4.mb-0 Debe hacer un análisis de los datos que obtenga de los #[em LEADS], sobre el interés que han mostrado por los productos y servicios ofertados, cuál es el tipo de empresa y que necesidades presenta. Con estos datos puede determinar el cliente puede convertirse en un cliente fiel y determinar el trato que debe tener, es decir realizar una clasificación del cliente exponencial a futuro y con esto, deberá disponer de la persona de ventas adecuada que logre efectivamente cerrar la venta con LEAD. Esta clasificación de #[em LEADS], le permite, contactar en el momento adecuado, escoger su personal acertado, convencer a su nuevo cliente más fácilmente y conseguir clientes fieles de manera óptima.              
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_16.svg')
@@ -179,7 +179,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="02") 
               h4.ps-4 <i>El tiempo lo es todo, ¿cuándo se debe hacer un seguimiento?</i>  
-              p.ps-4.mb-0 El mejor momento para realizar un primer contacto con un LEAD, es inmediatamente cuando el LEAD muestra interés en los productos y servicios. Los LEADS que estén interesados en los productos y que van a comprar, les atraerá, la atención inmediata que le suministre el personal de ventas y si no lo hace una empresa, la competencia estará lista para quedarse con los LEADS. Cuando un equipo de ventas, atiende a los LEADS, podrá aprovechar para obtener de ellos datos específicos de sus intereses vs productos.             
+              p.ps-4.mb-0 El mejor momento para realizar un primer contacto con un LEAD, es inmediatamente cuando el LEAD muestra interés en los productos y servicios. Los #[em LEADS] que estén interesados en los productos y que van a comprar, les atraerá, la atención inmediata que le suministre el personal de ventas y si no lo hace una empresa, la competencia estará lista para quedarse con los #[em LEADS]. Cuando un equipo de ventas, atiende a los #[em LEADS], podrá aprovechar para obtener de ellos datos específicos de sus intereses vs productos.             
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_17.svg')
@@ -188,7 +188,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="03") 
               h4.ps-4 <i>Conocer dónde están, ¿cómo hacer un seguimiento?</i>  
-              p.ps-4.mb-0 Inicialmente, determine qué tipo de comunicación prefieren los LEADS, ya sea presencialmente, por teléfono, por chats, por correo o mensajes de texto y es la primera buena impresión que van a tener de la empresa y que no se van a incomodar. Seguido a esto, el contenido de la primera entrevista con un LEAD, debe ser muy atrayente e impactante, que el contenido haga que el LEAD se interese más por los productos y llegue a un cierre exitoso de venta.              
+              p.ps-4.mb-0 Inicialmente, determine qué tipo de comunicación prefieren los #[em LEADS], ya sea presencialmente, por teléfono, por chats, por correo o mensajes de texto y es la primera buena impresión que van a tener de la empresa y que no se van a incomodar. Seguido a esto, el contenido de la primera entrevista con un LEAD, debe ser muy atrayente e impactante, que el contenido haga que el LEAD se interese más por los productos y llegue a un cierre exitoso de venta.              
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_18.svg')
@@ -196,15 +196,15 @@
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="04")                
-              p.ps-4.mb-0 Con las herramientas que proporciona la tecnología, el equipo de ventas, debe estar muy de la mano con el equipo de marketing para lograr una consecución efectiva y grande de LEADS, mediante las redes sociales y la publicidad en general.           
+              p.ps-4.mb-0 Con las herramientas que proporciona la tecnología, el equipo de ventas, debe estar muy de la mano con el equipo de #[em marketing] para lograr una consecución efectiva y grande de #[em LEADS], mediante las redes sociales y la publicidad en general.           
           .col-6.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_19.svg')
 
     separador
 
-    #t_4_2.titulo-segundo.color-acento-contenido
-      h2 4.2 Evaluación final
+    #t_4_3.titulo-segundo.color-acento-contenido
+      h2 4.3 Evaluación final
 
     p Para saber cómo medir la productividad de un equipo de ventas revise con atención el siguiente recurso educativo.
 
@@ -216,7 +216,7 @@
               figure
                 img(src='@/assets/curso/temas/t4/t4_20.png', alt='')          
             .col-lg-8
-              p.mb-0 Con esta evaluación, se podrá saber la capacidad que un equipo de ventas tiene para adquirir nuevos clientes y el costo que le refleja a una empresa. Es decir, se divide el costo total de ventas y marketing sobre el número de nuevos clientes en un periodo determinado. 
+              p.mb-0 Con esta evaluación, se podrá saber la capacidad que un equipo de ventas tiene para adquirir nuevos clientes y el costo que le refleja a una empresa. Es decir, se divide el costo total de ventas y #[em marketing] sobre el número de nuevos clientes en un periodo determinado. 
 
           .row.justify-content-center.align-items-center(titulo="Tasa de retención de clientes")
             .col-lg-4.col-8.mb-4.mb-lg-0
@@ -240,7 +240,7 @@
             .col-lg-8
               p.mb-0 La velocidad con la que los vendedores responden a los clientes potenciales, es una medición importante, de la capacidad productiva de cada vendedor. Esto tiene que ver, con la atención que cada vendedor dispuesto a cada LEAD en los momentos apropiados, inmediatos. Para hacer esta clase de mediciones, tenga en cuenta el tiempo que le lleva a un equipo de trabajo, enviar una primera respuesta y divídalo por la cantidad de solicitudes de clientes que obtuvieron una primera respuesta.
 
-          .row.justify-content-center.align-items-center(titulo="Tasa de follow up (acompañamiento)")
+          .row.justify-content-center.align-items-center(titulo="Tasa de <em>follow up</em> (acompañamiento)")
             .col-lg-4.col-8.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/t4/t4_24.png', alt='')          
