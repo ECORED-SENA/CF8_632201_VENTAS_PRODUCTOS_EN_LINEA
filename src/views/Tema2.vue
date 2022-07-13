@@ -7,20 +7,20 @@
         span.text-white 2
       h1 Servicio posventa
 
-    p Es un servicio que se ofrece a un comprador después de realizar la venta de un producto. Por lo general, se enfoca en el resultado de una garantía que está asociada con el producto o servicio que se compró, está relacionado con actividades, referentes a asistencia, asesoramiento técnico, resolución de problemas o entrega de repuestos (si es el caso), es un servicio destinado a brindar asistencia a cualquier tipo de inconveniente que pueda ocurrir con un producto posterior al uso que le da el comprador.
+    p(data-aos="fade") Es un servicio que se ofrece a un comprador después de realizar la venta de un producto. Por lo general, se enfoca en el resultado de una garantía que está asociada con el producto o servicio que se compró, está relacionado con actividades, referentes a asistencia, asesoramiento técnico, resolución de problemas o entrega de repuestos (si es el caso), es un servicio destinado a brindar asistencia a cualquier tipo de inconveniente que pueda ocurrir con un producto posterior al uso que le da el comprador.
 
     .bg_gradient_02.p-4.py-lg-4.mb-4
       .row.justify-content-center
         .col-xl-10
           .row.justify-content-center
             .col-lg-8.order-2.order-lg-1
-              p De esta manera, se debe tener garantizado el soporte que brinda el fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio posventa debe seguir una serie de requerimientos fundamentales con el fin de #[span.hg--purple fidelizar al 100% a los clientes]. La búsqueda de clientes es una tarea constante de las empresas y microempresas y para ello se debe crear una cultura de lealtad. 
+              p(data-aos="fade") De esta manera, se debe tener garantizado el soporte que brinda el fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio posventa debe seguir una serie de requerimientos fundamentales con el fin de #[span.hg--purple fidelizar al 100% a los clientes]. La búsqueda de clientes es una tarea constante de las empresas y microempresas y para ello se debe crear una cultura de lealtad. 
               p Para conocer los pasos necesarios para diseñar una estrategia del proceso de posventa revise con atención el siguiente recurso: 
             .col-lg-4.col-8.order-1.order-lg-2.mb-4
-              figure
+              figure(data-aos="zoom-in")
                 img(src="@/assets/curso/temas/t2/t2_01.svg", alt="alt")
 
-    .crd.clr--paleYellow.brd--rad.p-4
+    .crd.clr--paleYellow.brd--rad(data-aos="zoom-in").p-4
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center.align-items-center(titulo="Paso 1")       
           .col-lg-4.col-8.order-2.order-lg-1
@@ -66,23 +66,23 @@
 
     separador
             
-    #t_2_1.titulo-segundo.color-acento-contenido
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 2.1 Definición y etapas
 
-    p Como ya se mencionó antes estas corresponden a acciones que realiza una empresa para mantenerse en contacto con sus clientes, por ejemplo, una breve encuesta de satisfacción preguntando cómo fue la experiencia de compra, cómo le fue con los productos y servicios, si funcionaron como se esperaba y si cumplieron con sus expectativas.
+    p(data-aos="fade") Como ya se mencionó antes estas corresponden a acciones que realiza una empresa para mantenerse en contacto con sus clientes, por ejemplo, una breve encuesta de satisfacción preguntando cómo fue la experiencia de compra, cómo le fue con los productos y servicios, si funcionaron como se esperaba y si cumplieron con sus expectativas.
 
     .row.justify-content-center.mb-4
       .col-lg-10
         .crd.crd--gradMint.brd--rad.py-lg-4.px-lg-0.p-4
           .row.justify-content-center
             .col-lg-10
-              figure.mb-4
+              figure(data-aos="zoom-in").mb-4
                 img(src="@/assets/curso/temas/t2/t2_08.svg", alt="alt")
 
-              p Es importante tener clara la manera como debe llevar a cabo un proceso posventa, es fundamental un adecuado seguimiento de cliente con el fin fidelizar y captar también nuevos clientes, no solo se trata de hacer una venta y dejar ir cliente, es necesario tenerlo en una base de datos pues este podría ser a futuro un cliente potencial.
-              p.mb-4 Dentro del ejercicio de posventa se deben plantear algunas tareas puntuales, para conocerlas revise con atención el recurso propuesto. 
+              p(data-aos="fade") Es importante tener clara la manera como debe llevar a cabo un proceso posventa, es fundamental un adecuado seguimiento de cliente con el fin fidelizar y captar también nuevos clientes, no solo se trata de hacer una venta y dejar ir cliente, es necesario tenerlo en una base de datos pues este podría ser a futuro un cliente potencial.
+              p(data-aos="fade").mb-4 Dentro del ejercicio de posventa se deben plantear algunas tareas puntuales, para conocerlas revise con atención el recurso propuesto. 
 
-              ImagenInfografica.color-acento-botones.mb-5
+              ImagenInfografica.color-acento-botones(data-aos="zoom-in").mb-5
                 template(v-slot:imagen)
                   figure
                     img(src='@/assets/curso/temas/t2/t2_09.svg', alt='Texto que describa la imagen')                    
@@ -114,32 +114,32 @@
                 .tarjeta.clr--paleYellow.p-3(x="90.3%" y="48%" numero="9")                  
                   p Evite las campañas invasivas, ya que los clientes podrán sentirse saturados e incomodos en algún momento, sea prudente y analice el mercado con el fin de hacer una campaña de #[em marketing] en el momento indicado, sus clientes estarán al tanto de su producto y sin duda harán el proceso de compra con usted.
       
-        p Teniendo en cuenta lo anterior #[strong ¿cuál sería el compromiso que estaría dispuesto asumir usted con un cliente potencial, recurrente en este escenario de la posventa?]
+        p(data-aos="fade") Teniendo en cuenta lo anterior #[strong ¿cuál sería el compromiso que estaría dispuesto asumir usted con un cliente potencial, recurrente en este escenario de la posventa?]
 
     separador
 
-    #t_2_2.titulo-segundo.color-acento-contenido
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 2.2 Realización de encuestas
 
     .bg_img_01
-      p.mb-5 Las encuestas son métodos de recopilación de datos, de igual forma son investigaciones las cuales son utilizadas por personas de acuerdo a un tema en específico, existen diversas metodologías para su aplicación, esto dependiendo el objetivo que se quiera alcanzar y el propósito de la encuesta. La recolección de datos generalmente se realiza por intermedio de un procedimiento estandarizado con el objetivo de que cada encuestado responda la pregunta en las mismas condiciones, evitando opiniones sesgadas que puedan afectar los resultados de la encuesta. 
+      p(data-aos="fade").mb-5 Las encuestas son métodos de recopilación de datos, de igual forma son investigaciones las cuales son utilizadas por personas de acuerdo a un tema en específico, existen diversas metodologías para su aplicación, esto dependiendo el objetivo que se quiera alcanzar y el propósito de la encuesta. La recolección de datos generalmente se realiza por intermedio de un procedimiento estandarizado con el objetivo de que cada encuestado responda la pregunta en las mismas condiciones, evitando opiniones sesgadas que puedan afectar los resultados de la encuesta. 
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center(data-aos="zoom-in").mb-5
         .col-lg-10
           figure
             img(src="@/assets/curso/temas/t2/t2_10.svg", alt="alt")
 
       
-      .row.mb-4
+      .row(data-aos="fade").mb-4
         .col-auto
           figure
             img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
         .col
           h3.customH3 Diseño de una encuesta
 
-      p Como se mencionó anteriormente las encuestas surgen al momento en que una persona necesite conocer información de un tema determinado y no cuente con la información necesaria para tal fin, para la realización de este insumo se deben tener en cuenta algunos parámetros, para conocerlos revise con atención el siguiente recurso educativo:
+      p(data-aos="fade") Como se mencionó anteriormente las encuestas surgen al momento en que una persona necesite conocer información de un tema determinado y no cuente con la información necesaria para tal fin, para la realización de este insumo se deben tener en cuenta algunos parámetros, para conocerlos revise con atención el siguiente recurso educativo:
 
-      SlyderF.mb-5(columnas="col-xl-4")
+      SlyderF(data-aos="zoom-in").mb-5(columnas="col-xl-4")
         .crd.clr--paleBlue.brd--rad.hg--100.p-4
           .row.justify-content-center.align-items-center
             .col-12            
@@ -182,23 +182,23 @@
               img(src='@/assets/curso/temas/t2/t2_17.svg' alt='AvatarTop').img90.m-auto.mb-4                   
               p.mb-0 Utilice un tipo de letra de fácil entendimiento (Arial, Times New Roman, Verdada) con un tamaño adecuado. 
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-lg-10
         .cajon.cjn--purple.p-4      
           p.mb-0 Hoy en día las encuestas en línea son las más utilizadas por la gran mayoría de personas, ya que por medio de estas se optimizan recursos valiosos como dinero y tiempo (rapidez y bajo costo), por ejemplo, se podría hablar de los formularios que ofrece (Google Forms) esta herramienta optimiza el resultado de una encuesta de manera eficaz, precisa y organizada.
 
-    p.mb-5 Una encuesta #[em online] le permitirán tener una mejor cobertura de acuerdo al tipo de población al que esté orientada y al tipo de mercado al cual esté dirigido, es importante tener en cuenta que este tipo de encuesta no requiere que las personas encuestadas se encuentren en el mismo lugar y tampoco se necesita contratar personas para que desarrollen la encuesta, además se facilita el uso de gráficos e imágenes full color lo que hará que la encuesta visualmente sea llamativa, además, el análisis de los datos consignados y resultados se pueden obtener en tiempo real.
+    p(data-aos="fade").mb-5 Una encuesta #[em online] le permitirán tener una mejor cobertura de acuerdo al tipo de población al que esté orientada y al tipo de mercado al cual esté dirigido, es importante tener en cuenta que este tipo de encuesta no requiere que las personas encuestadas se encuentren en el mismo lugar y tampoco se necesita contratar personas para que desarrollen la encuesta, además se facilita el uso de gráficos e imágenes full color lo que hará que la encuesta visualmente sea llamativa, además, el análisis de los datos consignados y resultados se pueden obtener en tiempo real.
 
-    .row.mb-4
+    .row(data-aos="fade").mb-4
         .col-auto
           figure
             img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
         .col
           h3.customH3 Características de una encuesta
 
-    p Por lo general las encuestas cuentan con preguntas específicas, orientadas a temas en especial, es un insumo de opinión pública que a través de preguntas específicas se obtiene una información específica, de una u otra forma una encuesta busca persuadir o influir a la audiencia, es un insumo demasiado valioso al momento de ser aplicado por especialistas, expertos y profesionales de proyectos, tenga en cuenta que no solo se hacen encuestas al momento de lanzar al mercado un producto, ya que se podrán utilizar dentro de procesos existen en busca de mejora  o medir comportamientos de productos de acuerdo a tendencias del momento, teniendo esto claro revise en el recurso propuesto  en el que conocerá algunos sugerencias para  aplicarlas y ponerlas en práctica:
+    p(data-aos="fade") Por lo general las encuestas cuentan con preguntas específicas, orientadas a temas en especial, es un insumo de opinión pública que a través de preguntas específicas se obtiene una información específica, de una u otra forma una encuesta busca persuadir o influir a la audiencia, es un insumo demasiado valioso al momento de ser aplicado por especialistas, expertos y profesionales de proyectos, tenga en cuenta que no solo se hacen encuestas al momento de lanzar al mercado un producto, ya que se podrán utilizar dentro de procesos existen en busca de mejora  o medir comportamientos de productos de acuerdo a tendencias del momento, teniendo esto claro revise en el recurso propuesto  en el que conocerá algunos sugerencias para  aplicarlas y ponerlas en práctica:
 
-    ImagenInfografica.color-acento-botones.mb-5
+    ImagenInfografica.color-acento-botones(data-aos="fade").mb-5
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t2/t2_18.svg', alt='Texto que describa la imagen')                    
@@ -243,19 +243,17 @@
         p.mb-0 Plantee una encuesta democrática, con preguntas que sean de fácil entendimiento
 
       .tarjeta.clr--paleYellow.p-3(x="86%" y="35.5%" numero="+")          
-        p.mb-0 Plantee estrategias para cautivar a un público a responder la encuesta.
-                
-       
+        p.mb-0 Plantee estrategias para cautivar a un público a responder la encuesta.       
       
 
     separador
 
-    #t_2_3.titulo-segundo.color-acento-contenido
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 2.3 Registros
 
-    p El registro de datos se encarga de inspeccionar eventos con los cuales se pueden monitorear datos en tiempo real, específicamente datos con precisión los cuales permitan detectar anomalías y tomar decisiones de forma rápida para mitigar algún tipo de problema que pueda presentar una organización.
+    p(data-aos="fade") El registro de datos se encarga de inspeccionar eventos con los cuales se pueden monitorear datos en tiempo real, específicamente datos con precisión los cuales permitan detectar anomalías y tomar decisiones de forma rápida para mitigar algún tipo de problema que pueda presentar una organización.
 
-    .row.justify-content-center.mb-5
+    .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-lg-10
         .crd.clr--grad_Green_01.p-3
           .row.justify-content-center.align-items-center
@@ -265,16 +263,16 @@
               figure
                 img(src="@/assets/curso/temas/t2/t2_19.png", alt="alt")
 
-    .titulo-sexto.color-acento-contenido
+    .titulo-sexto.color-acento-contenido(data-aos="fade")
       h5 Figura 1.
       span Registro de datos
 
-    figure.mb-5
+    figure.mb-5(data-aos="zoom-in")
       img(src="@/assets/curso/temas/t2/t2_20.jpg", alt="alt")
 
-    p.mb-5 Una base de datos personal es una colección de información organizada en medios físicos o electrónicos. En general, la gran mayoría de empresas tienen una base de datos de empleados, clientes y proveedores, un dato personal es información que está o puede estar vinculada a una o más personas naturales. Estos datos casi siempre pueden ser públicos o privados; por otro lado, cuando se habla de tratamiento de datos personales, se hace referencia a todas las actividades realizadas con cualquier tipo de información personal, tales como, recopilar, almacenar, consultar, actualizar o compartir estos datos. Lo anterior en base al propósito planteado por la empresa teniendo claro el para qué de la base de datos. 
+    p(data-aos="fade").mb-5 Una base de datos personal es una colección de información organizada en medios físicos o electrónicos. En general, la gran mayoría de empresas tienen una base de datos de empleados, clientes y proveedores, un dato personal es información que está o puede estar vinculada a una o más personas naturales. Estos datos casi siempre pueden ser públicos o privados; por otro lado, cuando se habla de tratamiento de datos personales, se hace referencia a todas las actividades realizadas con cualquier tipo de información personal, tales como, recopilar, almacenar, consultar, actualizar o compartir estos datos. Lo anterior en base al propósito planteado por la empresa teniendo claro el para qué de la base de datos. 
 
-    .row.mb-4
+    .row(data-aos="fade").mb-4
         .col-auto
           figure
             img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
@@ -282,24 +280,24 @@
           h3.customH3 Importancia de los registros de datos para una empresa
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-4.order-2.order-lg-1.col-8
+      .col-lg-4.order-2.order-lg-1.col-8(data-aos="zoom-in")
         figure
           img(src="@/assets/curso/temas/t2/t2_21.svg", alt="alt")
-      .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0
+      .col-lg-8.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade")
         p.mb-0 Conservar los registros de datos es una manera adecuada para que las organizaciones supervisen la utilidad y el rendimiento de todas las aplicaciones de una infraestructura independientemente de su oficio. Los registros de datos servirán al momento de evidenciar cualquier tipo de contingencia, puede ser importante para solucionar problemas en ciertas situaciones, optimizando tiempo, dinero y recursos tanto físicos como económicos.
 
-    p.mb-5 Cuando se usan correctamente, los datos de registro estos se podrán transformar en inteligencia operativa, dicho registro permite monitorear cuidadosamente los procesos comerciales de una compra, las transacciones y las suscripciones, como en las tiendas de comercio electrónico, en conclusión, los mecanismos eficientes de registro de datos le permiten monitorear mejor un negocio.
+    p(data-aos="fade").mb-5 Cuando se usan correctamente, los datos de registro estos se podrán transformar en inteligencia operativa, dicho registro permite monitorear cuidadosamente los procesos comerciales de una compra, las transacciones y las suscripciones, como en las tiendas de comercio electrónico, en conclusión, los mecanismos eficientes de registro de datos le permiten monitorear mejor un negocio.
 
-    .row.mb-4
+    .row(data-aos="fade").mb-4
       .col-auto
         figure
           img(src="@/assets/curso/temas/recursos/square_01.svg", alt="alt")
       .col
         h3.customH3 Métodos de recopilación de datos
 
-    p.mb-4 Hay muchas formas de recopilar datos, y debe encontrar la que mejor se adapte al tipo de investigación y análisis que desea realizar. En primer lugar, debe decidir si desea que el estudio sea cualitativo, cuantitativo o combinado. De cualquier manera, puede profundizar más en el tema. Una indagación cuantitativa involucra siempre la recopilación de datos numéricos. Si no necesita números, su estudio es cualitativo. Los métodos de selección de datos cuantitativos siempre utilizan datos que puedan ser medibles.
+    p(data-aos="fade").mb-4 Hay muchas formas de recopilar datos, y debe encontrar la que mejor se adapte al tipo de investigación y análisis que desea realizar. En primer lugar, debe decidir si desea que el estudio sea cualitativo, cuantitativo o combinado. De cualquier manera, puede profundizar más en el tema. Una indagación cuantitativa involucra siempre la recopilación de datos numéricos. Si no necesita números, su estudio es cualitativo. Los métodos de selección de datos cuantitativos siempre utilizan datos que puedan ser medibles.
 
-    .crd.clr--paleGreen.p-4.mb-4
+    .crd.clr--paleGreen.p-4(data-aos="zoom-in").mb-4
       .row.justify-content-center.align-items-center
         .col-lg-8.mb-4
           p Cuando se trata de una investigación cuantitativa lo primero que se debe realizar es un diseño de recolección de datos para generar un muestreo, aquí se podrá tomar como referencia los formatos de encuestas, y sus metodologías, las cuales pueden ser en persona, vía telefónica o en línea, tenga en cuenta en tener las preguntas bien definidas para analizarlas posteriormente, de igual forma si cuenta con una dato secundario, no olvide de donde proviene la información, por general son fuentes secundarias.
@@ -309,7 +307,7 @@
             img(src="@/assets/curso/temas/t2/t2_22.png", alt="alt")
 
     .row.justify-content-center.mb-4
-      .col-lg-6.mb-4.mb-lg-0
+      .col-lg-6.mb-4.mb-lg-0(data-aos="flip-left")
         .crd.clr--grad_Blue_01.hg--100.p-5
           .topLeft
             figure
@@ -321,7 +319,7 @@
           .bottomRight
             figure.mb-4
               img(src="@/assets/curso/temas/recursos/triangle_02.svg", alt="alt").img90
-      .col-lg-6
+      .col-lg-6(data-aos="flip-left")
         .crd.clr--grad_Blue_01.hg--100.p-5
           topLeft
             figure
@@ -334,8 +332,7 @@
             figure.mb-4
               img(src="@/assets/curso/temas/recursos/triangle_02.svg", alt="alt").img90
 
-
-    p Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato se está trabajando. Los formatos por lo general están vinculados a un #[em software] y #[em hardware] específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, recuerde obtener el #[em software] apropiado sé que necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.              
+    p(data-aos="fade") Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato se está trabajando. Los formatos por lo general están vinculados a un #[em software] y #[em hardware] específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, recuerde obtener el #[em software] apropiado sé que necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.              
 
 
 </template>

@@ -7,30 +7,30 @@
         span.text-white 1
       h1 Fidelización de clientes
 
-    .row.justify-content-center.mb-4
+    .row.justify-content-center.mb-4(data-aos="fade")
       .col-lg-10
         p Dentro del proceso de ventas de una empresa, se podrá evidenciar de manera especial, la interrelación que se genera cuando un cliente compra de manera constante sus productos y/o servicios. Esas compras repetidas durante un periodo de tiempo, diario, semanal, mensual, son un indicativo positivo que le permite a una empresa #[strong “fidelizar clientes”]. 
         p Para profundizar en el tema de fidelización de clientes revise con atención el siguiente recurso educativo: 
 
-    .bg_img_01
+    .bg_img_01(data-aos="zoom-in")
       figure
         img(src="@/assets/curso/temas/t1/t1_01.svg", alt="alt")
 
       separador
 
-      #t_1_1.titulo-segundo.color-acento-contenido
+      #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade")
         h2 1.1 Definición y etapas
 
-      p.mb-5 La fidelización de clientes es un concepto de #[em marketing] cuyo objetivo es conseguir, mediante diversas estrategias y técnicas de venta, que el consumidor, que ya haya adquirido diversos productos o servicios, siga comprando y se convierta en un cliente habitual.
+      p.mb-5(data-aos="fade") La fidelización de clientes es un concepto de #[em marketing] cuyo objetivo es conseguir, mediante diversas estrategias y técnicas de venta, que el consumidor, que ya haya adquirido diversos productos o servicios, siga comprando y se convierta en un cliente habitual.
 
-      h3 Etapas de fidelización de clientes
-      p.mb-4 La lealtad del cliente asume un impacto directo no solo en el desempeño del negocio, sino también en la imagen de marca. El impacto de los clientes satisfechos puede ser más importante que cualquier estrategia de #[em marketing].
+      h3(data-aos="fade") Etapas de fidelización de clientes
+      p.mb-4(data-aos="fade") La lealtad del cliente asume un impacto directo no solo en el desempeño del negocio, sino también en la imagen de marca. El impacto de los clientes satisfechos puede ser más importante que cualquier estrategia de #[em marketing].
 
-      .row.justify-content-center.align-items-center.mb-4
+      .row.justify-content-center.align-items-center.mb-5
         .col-lg-4.col-8.mb-4.mb-lg-0
-          figure
+          figure(data-aos="zoom-in")
             img(src="@/assets/curso/temas/t1/t1_02.png", alt="alt")
-        .col-lg-8
+        .col-lg-8(data-aos="fade")
           p Dentro de los tipos de posibles clientes se tienen: 
           .crd.clr--purple.p-4.mb-3
             ol.lista-ol--cuadro.mb-0
@@ -48,7 +48,7 @@
                 | El cliente que vuelve y compra constantemente. 
           p.mb-0 Las mediciones que se realizan a las ventas de cualquier empresa, permiten saber qué tan satisfechos están los clientes, sobre todo para el cliente que compra, regresa y compra constantemente, desde esta perspectiva es fundamental conocer las 5 etapas del proceso de fidelización de clientes que se exponen en el siguiente recurso educativo: 
 
-    TabsB.color-acento-contenido.mb-5
+    TabsB.color-acento-contenido(data-aos="zoom-in").mb-5
       .py-4.py-md-5(titulo="La primera visita" :icono="require('@/assets/curso/temas/t1/t1_03.svg')")
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
@@ -94,9 +94,9 @@
             figure
               img(src='@/assets/curso/temas/t1/t1_12.png', alt='')
 
-    p.text-center.mb-5 De acuerdo con esta información de las etapas de fidelización tenga presente lo siguiente:
+    p.text-center(data-aos="fade").mb-5 De acuerdo con esta información de las etapas de fidelización tenga presente lo siguiente:
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in")
       .col-lg-10
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
           .crd.crd--avatarH.p-4
@@ -139,12 +139,12 @@
 
     .bg_gradient_01
 
-      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="zoom-in")
+      #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade")
           h2 1.2 Retroalimentación e importancia
 
-      p.mb-5 Tener una medición de las compras constantes de clientes, le permitirá a la empresa tener un conocimiento amplio de las fortalezas y debilidades de los productos y mediante estos datos diseñar estrategias de mercadeo bien dirigidas y definidas, que le generen aumento en ventas, estabilidad laboral a los empleados y una consolidación de una marca empresarial relevante.    
+      p(data-aos="fade").mb-5 Tener una medición de las compras constantes de clientes, le permitirá a la empresa tener un conocimiento amplio de las fortalezas y debilidades de los productos y mediante estos datos diseñar estrategias de mercadeo bien dirigidas y definidas, que le generen aumento en ventas, estabilidad laboral a los empleados y una consolidación de una marca empresarial relevante.    
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center(data-aos="zoom-in").mb-5
         .col-lg-10
           .bloque-texto-g.clr--purple02.p-3.p-sm-4.p-md-5
             .bloque-texto-g__img(
@@ -153,21 +153,21 @@
             .bloque-texto-g__texto.p-4
               p.mb-0 La importancia de la retroalimentación mediante la medición de ventas y estadísticas, permite tener un programa de fidelización de clientes óptimo, pues esta facilita a una empresa tener una proyección de ventas acertada, un presupuesto de compras apropiado, estrategias de #[em marketing] empresarial convenientes, elementos que resultan fundamentales para atraer nuevos clientes.
 
-      p La retroalimentación permite fortalecer la relación empresa-cliente, además de establecer estrategias para la mejora e innovación de los productos y servicios.  Las mediciones estadísticas llevan a identificar qué tan satisfechos están los clientes con los productos y la atención prestada, por otro lado, por medio de ellas, también es posible saber si los clientes recomendarían a otros dichos productos o servicios. Esta es una de las mejores formas de identificar cómo se encuentra la empresa frente a la competencia.
+      p(data-aos="fade") La retroalimentación permite fortalecer la relación empresa-cliente, además de establecer estrategias para la mejora e innovación de los productos y servicios.  Las mediciones estadísticas llevan a identificar qué tan satisfechos están los clientes con los productos y la atención prestada, por otro lado, por medio de ellas, también es posible saber si los clientes recomendarían a otros dichos productos o servicios. Esta es una de las mejores formas de identificar cómo se encuentra la empresa frente a la competencia.
 
       separador
 
-    #t_1_3.titulo-segundo.color-acento-contenido
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 1.3 Aplicación de la retroalimentación
 
-    p Para contar con una buena retroalimentación por parte de los clientes es fundamental contar con canales de comunicación adecuada que generen confianza y seguridad en el usuario. Un cliente totalmente satisfecho expresa su opinión de acuerdo a su experiencia. Por ende, es fundamental escucharlo y hacerlo partícipe de las novedades de la empresa, si se obtienen respuestas acertadas por parte del cliente se sabrá que mejorar, cambiar o innovar. 
+    p(data-aos="fade") Para contar con una buena retroalimentación por parte de los clientes es fundamental contar con canales de comunicación adecuada que generen confianza y seguridad en el usuario. Un cliente totalmente satisfecho expresa su opinión de acuerdo a su experiencia. Por ende, es fundamental escucharlo y hacerlo partícipe de las novedades de la empresa, si se obtienen respuestas acertadas por parte del cliente se sabrá que mejorar, cambiar o innovar. 
 
     .row.justify-content-center.mb-5
       .col-lg-8
-        .cajon.cjn--green.p-4
+        .cajon.cjn--green.p-4(data-aos="zoom-in")
           p.text-center.mb-0 Para conocer algunas de las ventajas que trae para una empresa la aplicación de dicho proceso de retroalimentación, revise con atención el siguiente recurso propuesto:
 
-    ImagenInfografica.color-acento-botones
+    ImagenInfografica.color-acento-botones(data-aos="zoom-in")
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t1/t1_19.svg', alt='Texto que describa la imagen')                    

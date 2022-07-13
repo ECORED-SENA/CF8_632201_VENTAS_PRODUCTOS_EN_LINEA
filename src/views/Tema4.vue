@@ -11,16 +11,16 @@
       .col-lg-10
         .row.justify-content-center.mb-4
           .col-lg-8
-            figure.mb-4
+            figure(data-aos="zoom-in").mb-4
               img(src="@/assets/curso/temas/t4/t4_01.svg", alt="alt")
 
-        p El reporte se utiliza a menudo para comunicar información de forma formal y estructurada, estos pueden tener muchas formas y formatos, como reporte de texto, de hoja de cálculo, de gráficos. Un reporte suele ser un resumen escrito del trabajo o la investigación que se ha realizado. Por lo general, incluye toda la información relevante que necesitará alguien que no esté familiarizado con el tema, como resúmenes de entrevistas u observaciones, explicaciones de los métodos y procedimientos seguidos y conclusiones extraídas de la investigación.
+        p(data-aos="fade") El reporte se utiliza a menudo para comunicar información de forma formal y estructurada, estos pueden tener muchas formas y formatos, como reporte de texto, de hoja de cálculo, de gráficos. Un reporte suele ser un resumen escrito del trabajo o la investigación que se ha realizado. Por lo general, incluye toda la información relevante que necesitará alguien que no esté familiarizado con el tema, como resúmenes de entrevistas u observaciones, explicaciones de los métodos y procedimientos seguidos y conclusiones extraídas de la investigación.
 
-        p.mb-5 El reporte de ventas es la reunión organizada de datos específicos y predeterminados, de los eventos comerciales de una empresa, antes, durante y después de cerrar un negocio.
+        p(data-aos="fade").mb-5 El reporte de ventas es la reunión organizada de datos específicos y predeterminados, de los eventos comerciales de una empresa, antes, durante y después de cerrar un negocio.
 
     .bg_img_02
       .row.justify-content-center
-        .col-lg-10
+        .col-lg-10(data-aos="zoom-in")
           .titulo-sexto.color-acento-contenido
             h5 Figura 2.
             span Ejemplo reporte semana de ventas.
@@ -28,7 +28,7 @@
             img(src="@/assets/curso/temas/t4/t4_02.jpg", alt="alt")
             figcaption Nota. https://bit.ly/3wGP3sD
 
-      .row.justify-content-center.mb-5
+      .row.justify-content-center(data-aos="zoom-in").mb-5
         .col-lg-8
           .crd.crd--avatarH_02.p-4
             .row.justify-content-center.align-items-center
@@ -38,36 +38,36 @@
               .col
                 p.mb-0 Los reportes de ventas, son los datos que le permiten a una empresa, tener un informe detallado de cómo los vendedores están generando las ventas con clientes fijos y nuevos, de cuáles decisiones toman sus gerentes para la corrección de fallas y mejoramiento de los proyectos puntuales de ventas y el avance en el logro de los objetivos generales de su empresa.
 
-      p Los reportes de ventas deben incluir, los ingresos de ventas semanales, número de llamadas realizadas por el departamento comercial a los #[em LEADS] y clientes fijos, las visitas comerciales, los porcentajes de incremento en las cuotas de mercado, el promedio de adquisición de clientes nuevos, los indicadores de fidelidad y retención de clientes y las ventas efectivas realizadas por cada vendedor.
+      p(data-aos="fade") Los reportes de ventas deben incluir, los ingresos de ventas semanales, número de llamadas realizadas por el departamento comercial a los #[em LEADS] y clientes fijos, las visitas comerciales, los porcentajes de incremento en las cuotas de mercado, el promedio de adquisición de clientes nuevos, los indicadores de fidelidad y retención de clientes y las ventas efectivas realizadas por cada vendedor.
 
     separador
 
-    #t_4_1.titulo-segundo.color-acento-contenido
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 4.1 Presentación de reportes
 
     .row.justify-content-center.mb-4
-      .col-lg-8
+      .col-lg-8(data-aos="fade")
         p De acuerdo a los requerimientos de cada empresa y para un mejor entendimiento entre sus colaboradores, los reportes de ventas, le brindará la información necesaria para una excelente toma de decisiones e incluso para que sus vendedores puedan comprender, los objetivos del presupuesto de ventas proyectado.
         p Los reportes de ventas pueden presentarse de manera resumida, promediando el total de ventas y observar el avance y/o el porcentaje de crecimiento ventas alcanzado. Los reportes de ganancias y pérdidas de clientes, le muestran las cotizaciones que realizaron los vendedores, seguimientos a los objetivos buscados y porcentaje de la consecución anual de clientes.
-      .col-lg-4.col-8
+      .col-lg-4.col-8(data-aos="zoom-in")
         figure.mb-4
           img(src="@/assets/curso/temas/t4/t4_04.png", alt="alt")
     
-    .crd.clr--paleGreen.p-3.mb-5
+    .crd.clr--paleGreen.p-3(data-aos="zoom-in").mb-5
       p.text-center.mb-0 Otro reporte importante, es el informe de contactos y posibles clientes nuevos, con el que puede proyectar nuevos objetivos y estrategias empresariales.
 
     .titulo-sexto.color-acento-contenido
       h5 Figura 3.
       span Presentación de reportes
     
-    figure.mb-4
+    figure.mb-4(data-aos="zoom-in")
       img(src="@/assets/curso/temas/t4/t4_05.jpg", alt="alt")
       figcaption Nota. https://bit.ly/3NrWtqg
 
-    p.mb-4 Tiene entonces tres reportes principales que le permiten detallar actividades comerciales, responder a las necesidades tanto de los empleados como las de los clientes y tener un seguimiento continuo a los objetivos empresariales. Estos tres reportes específicamente son:
+    p(data-aos="fade").mb-4 Tiene entonces tres reportes principales que le permiten detallar actividades comerciales, responder a las necesidades tanto de los empleados como las de los clientes y tener un seguimiento continuo a los objetivos empresariales. Estos tres reportes específicamente son:
 
     .row.justify-content-center.mb-5
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -76,7 +76,7 @@
             h4.mb-3 Reporte de ventas diarias 
             p.mb-0 Con este tipo de reportes, los gerentes podrán supervisar específicamente, la labor de cada vendedor y de esta manera, saber en qué les va bien y en cuáles actos hay que mejorar. Aquí también, va a encontrar si su fuerza de ventas está entendiendo sus estrategias y le sea más fácil incentivarlos a aumentar su productividad.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -85,7 +85,7 @@
             h4.mb-3 Reporte de ventas semanal
             p.mb-0 Con estos reportes semanales, podrá encontrar las dificultades que pueda tener algún o algunos vendedores y evitar que se pierdan los clientes fijos. Reportar semanalmente, le permite tener un equipo de ventas fortalecido y bien direccionado, con las correcciones necesarias para lograr las metas de ventas propuestas.
 
-      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0(data-aos="flip-left")
         .crd_hover_txt
           .crd_hover_txt--img
             figure
@@ -94,65 +94,65 @@
             h4.mb-3 Reporte de ventas mensuales
             p.mb-0 Con este tipo de reportes usted va a hacer un seguimiento específico a su equipo de ventas respecto a sus objetivos empresariales a largo plazo.
 
-    .titulo-quinto.color-primario
+    .titulo-quinto.color-primario(data-aos="fade")
       p.p-3 Para conocer cómo debe hacer un reporte de ventas en Excel revise el siguiente recurso educativo: 
     
     .bg_img_03
       PasosA.color-acento-contenido(tipo="l")
         .row.justify-content-center.align-items-center
-          .col-lg-7.mb-4.mb-lg-0          
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade")         
             p Lo primero que debe hacer es crear un archivo en Excel y reunir de manera ordenada los datos de vendedores, total ventas diarias, día de ventas, semana del mes, mes de venta.
-          .col-lg-4
+          .col-lg-4(data-aos="zoom-in")
             figure
               img(src="@/assets/curso/temas/t4/t4_09.png", alt="alt")
 
         .row.justify-content-center.align-items-center
-          .col-lg-4.order-2.order-lg-1
+          .col-lg-4.order-2.order-lg-1(data-aos="zoom-in")
             figure
               img(src="@/assets/curso/temas/t4/t4_10.png", alt="alt")
-          .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0          
+          .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade")          
             p Con estos datos debe crear una tabla sencilla de cinco columnas; vendedor, día, total venta, semana, mes con el nombre de venta detallada. En las filas, retroalimenta el archivo con los datos correspondientes. 
           
 
         .row.justify-content-center.align-items-center
-          .col-lg-7.mb-4.mb-lg-0            
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade")            
             p Para crear el informe resumido, genere una tabla dinámica; en la pestaña Insertar, tablas dinámicas recomendadas, haga clic y automáticamente se genera una tabla dinámica, allí debe organizar los datos de acuerdo a su necesidad. En el área columnas arrastre el campo mes, al área filas arrastre el campo vendedor y al área valores arrastre el campo total venta.
             p El archivo le va a generar un gráfico de la siguiente manera. 
-          .col-lg-4
+          .col-lg-4(data-aos="zoom-in")
             figure
               img(src="@/assets/curso/temas/t4/t4_11.png", alt="alt")
 
         .row.justify-content-center.align-items-center
-          .col-lg-4.col-lg-4.order-2.order-lg-1
+          .col-lg-4.col-lg-4.order-2.order-lg-1(data-aos="zoom-in")
             figure
               img(src="@/assets/curso/temas/t4/t4_12.png", alt="alt")
-          .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0           
+          .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade")           
             p Seguido a esto, puede generar un gráfico de lo que quiere mostrar u observar, ubicando el cursor en la parte superior de la tabla, donde dice etiquetas de fila, ir a la pestaña Insertar gráfico dinámico y escoger la fuente de su agrado. 
           
 
         .row.justify-content-center.align-items-center
-          .col-lg-7.mb-4.mb-lg-0           
+          .col-lg-7.mb-4.mb-lg-0(data-aos="fade")           
             p Antes de hacer una presentación o de enviar sus reportes, haga una revisión de los datos para verificar que sean confiables y que las fórmulas que haya trabajado se ubiquen de manera exacta. 
-          .col-lg-4
+          .col-lg-4(data-aos="zoom-in")
             figure
               img(src="@/assets/curso/temas/t4/t4_13.png", alt="alt")
 
         .row.justify-content-center.align-items-center
-          .col-lg-4.order-2.order-lg-1
+          .col-lg-4.order-2.order-lg-1(data-aos="zoom-in")
             figure
               img(src="@/assets/curso/temas/t4/t4_14.png", alt="alt")
-          .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0           
+          .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade")           
             p Se podrán crear reportes de diversas formas puesto que la información que se proporcione es la que se crea conveniente para el desarrollo y lectura de un reporte, realmente es una herramienta sencilla y muy útil de realizar. 
 
     separador
 
-    #t_4_2.titulo-segundo.color-acento-contenido
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 4.2 Seguimiento del reporte
 
     p.mb-4 El seguimiento a los reportes de ventas, deben ser complementados con el equipo de mercadeo, para integrar de esta manera a sus posibles clientes (#[em LEADS]). Cuando un equipo de mercadeo genera campañas de visualización de una empresa hacia los #[em LEADS], el equipo de ventas, debe actuar de acuerdo a la información que se suministre, para cerrar negocios con los nuevos #[em LEADS] y de esta manera, volverlos clientes de una empresa. Para hacer este cierre de ventas, es necesario analizar los datos y crear las condiciones favorables para un mejor acompañamiento al equipo de ventas.
 
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-lg-10
         .bloque-texto-g.clr--purple02.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -162,9 +162,9 @@
             p #[strong Tenga en cuenta que:]
             p Después de obtener los datos de los #[em LEADS], los gerentes de las empresas deben dar respuesta a las siguientes preguntas: #[strong ¿cómo se debe estructurar el proceso de seguimiento a los reportes de ventas? ¿cómo se establece el “quién, cuándo y qué del seguimiento de ventas?, ¿se tiene un plan de ventas efectivo y fácil de seguir para cerrar los acuerdos?”]
 
-    p.text-center.mb-5 Revise el siguiente recurso educativo y conozca algunos consejos para hacer seguimiento al reporte de ventas: 
+    p.text-center(data-aos="fade").mb-5 Revise el siguiente recurso educativo y conozca algunos consejos para hacer seguimiento al reporte de ventas: 
 
-    .slyderB_bg_01.px-5.py-3.mb-4
+    .slyderB_bg_01.px-5.py-3(data-aos="zoom-in").mb-4
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-center.my-lg-4
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
@@ -203,12 +203,12 @@
 
     separador
 
-    #t_4_3.titulo-segundo.color-acento-contenido
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 4.3 Evaluación final
 
-    p Para saber cómo medir la productividad de un equipo de ventas revise con atención el siguiente recurso educativo.
+    p(data-aos="fade") Para saber cómo medir la productividad de un equipo de ventas revise con atención el siguiente recurso educativo.
 
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="zoom-in")
       .col-lg-10
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")
           .row.justify-content-center.align-items-center(titulo="Adquisición de nuevos clientes")
