@@ -11,12 +11,12 @@
 
     .bg_gradient_02.p-4.py-lg-4.mb-4
       .row.justify-content-center
-        .col-lg-10
+        .col-xl-10
           .row.justify-content-center
-            .col-lg-8
+            .col-lg-8.order-2.order-lg-1
               p De esta manera, se debe tener garantizado el soporte que brinda el fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio posventa debe seguir una serie de requerimientos fundamentales con el fin de #[span.hg--purple fidelizar al 100% a los clientes]. La búsqueda de clientes es una tarea constante de las empresas y microempresas y para ello se debe crear una cultura de lealtad. 
               p Para conocer los pasos necesarios para diseñar una estrategia del proceso de posventa revise con atención el siguiente recurso: 
-            .col-lg-4.col-8
+            .col-lg-4.col-8.order-1.order-lg-2.mb-4
               figure
                 img(src="@/assets/curso/temas/t2/t2_01.svg", alt="alt")
 
@@ -301,7 +301,7 @@
 
     .crd.clr--paleGreen.p-4.mb-4
       .row.justify-content-center.align-items-center
-        .col-lg-8
+        .col-lg-8.mb-4
           p Cuando se trata de una investigación cuantitativa lo primero que se debe realizar es un diseño de recolección de datos para generar un muestreo, aquí se podrá tomar como referencia los formatos de encuestas, y sus metodologías, las cuales pueden ser en persona, vía telefónica o en línea, tenga en cuenta en tener las preguntas bien definidas para analizarlas posteriormente, de igual forma si cuenta con una dato secundario, no olvide de donde proviene la información, por general son fuentes secundarias.
           p.mb-0 Al momento de hablar de una investigación cualitativa se hace referencia a un tema netamente exploratorio el cual es utilizado para comprender razones y motivos sobre temas específicos, y ayudan a formular hipótesis para posibles indagaciones cuantitativas. Tenga en cuenta que los métodos de recopilación de datos cualitativos analizan los motivos de la decisión.
         .col-lg-4.col-8

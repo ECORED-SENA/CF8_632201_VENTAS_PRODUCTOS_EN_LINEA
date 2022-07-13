@@ -167,47 +167,37 @@
         .cajon.cjn--green.p-4
           p.text-center.mb-0 Para conocer algunas de las ventajas que trae para una empresa la aplicación de dicho proceso de retroalimentación, revise con atención el siguiente recurso propuesto:
 
-    ImagenInfografica.color-acento-botones.mb-5
+    ImagenInfografica.color-acento-botones
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/temas/t1/t1_19.svg', alt='Texto que describa la imagen')                    
 
-      .tarjeta.clr--paleYellow.p-3(x="15%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="15%" y="45%" numero="+")             
         p.mb-0 Incremento en ventas, cuando un cliente compra repetitivamente, es más fácil vender productos nuevos, escuchar las sugerencias, mejorar y de esta forma aumentan las ventas.
 
-      .tarjeta.clr--paleYellow.p-3(x="23.5%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="23.5%" y="45%" numero="+")           
         p.mb-0 Bajo costos de promoción, al venderle nuevos productos a los clientes fieles, estos van a generar la respuesta deseada, ya sea positiva o negativa, de esta manera se tiene la posibilidad de mejorar e incursionar en el mercado de manera acertada.
 
-      .tarjeta.clr--paleYellow.p-3(x="32.5%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="32.5%" y="45%" numero="+")           
         p.mb-0 Retención de empleados, con unas ventas en crecimiento y la consolidación de una empresa en un mercado determinado, se podrá generar estabilidad laboral, haciendo partícipes a los empleados de las dinámicas positivas de la empresa, estos de igual forma serán fieles a las políticas de la empresa y los beneficios que se les otorgue.
 
-      .tarjeta.clr--paleYellow.p-3(x="41.2%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="41.2%" y="45%" numero="+")           
         p.mb-0 Menor sensibilidad al precio, un cliente que recibe un producto y servicio que llame su atención y le produzca alto grado de satisfacción, no pondrá objeciones a los precios que está recibiendo, incluso si en el mercado lo encuentra más económico.
 
-      .tarjeta.clr--paleYellow.p-3(x="50%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="50%" y="45%" numero="+")            
         p.mb-0 Otra de las ventajas que generan clientes fieles, es la promoción gratuita de productos y servicios mediante la voz a voz de manera confiable. Al escuchar un cliente satisfecho, un posible nuevo cliente va a comprar con más tranquilidad y con muy buena expectativa.
 
-      .tarjeta.clr--paleYellow.p-3(x="59%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="59%" y="45%" numero="+")             
         p.mb-0 Mejorar el producto y servicio, apoyándose de una investigación de mercado con el fin de establecer cuáles son las necesidades de los clientes.
 
-      .tarjeta.clr--paleYellow.p-3(x="68%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="68%" y="45%" numero="+")             
         p.mb-0 Medir el nivel de satisfacción de los clientes de acuerdo a sus comentarios y expectativas.
 
-      .tarjeta.clr--paleYellow.p-3(x="77%" y="45%" numero="+")                  
+      .tarjeta.clr--paleYellow.p-3(x="77%" y="45%" numero="+")            
         p.mb-0 Convertir la retroalimentación negativa en una opción de venta, tomar como referencia la retroalimentación para que esta sea una opción de mejora.
 
-      .tarjeta.clr--paleYellow.p-3(x="85.5%" y="45%" numero="+")                  
-        p.mb-0 Tomar las mejores decisiones para la empresa, no se debe suponer, es importante recopilar información con al cual se pueda implementar una estrategia de mercado.
-
-
-    
-
-    
-
-
-    
-
-    
+      .tarjeta.clr--paleYellow.p-3(x="85.5%" y="45%" numero="+")           
+        p.mb-0 Tomar las mejores decisiones para la empresa, no se debe suponer, es importante recopilar información con al cual se pueda implementar una estrategia de mercado.    
 
 
 </template>
