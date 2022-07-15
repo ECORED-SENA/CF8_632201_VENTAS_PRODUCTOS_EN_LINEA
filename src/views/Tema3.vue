@@ -223,7 +223,7 @@
               figure
                 img(src="@/assets/curso/temas/t3/t3_13.svg", alt="alt").img60.m-auto
             .col(data-aos="fade")
-              p.mb-0 Describa detalladamente; datos geográficos, demográficos de los encuestados, dónde se realiza la encuesta es decir lugar específico (oficina, calle, ciudad, departamento, etc) qué formato utilizó para realizar la encuesta (PDF, CSV, Excel), quien realiza la encuesta y el tipo de cuestionario que utilizo para desarrollar el ejercicio.
+              p.mb-0 Describa detalladamente; datos geográficos, demográficos de los encuestados, dónde se realiza la encuesta es decir lugar específico (oficina, calle, ciudad, departamento, etc) qué formato utilizó para realizar la encuesta (PDF, CSV, Excel), quién realiza la encuesta y el tipo de cuestionario que utilizó para desarrollar el ejercicio.
           .hr--line(data-aos="fade")
           .row.justify-content-center.align-items-center.mb-3
             .col-auto(data-aos="zoom-in")
