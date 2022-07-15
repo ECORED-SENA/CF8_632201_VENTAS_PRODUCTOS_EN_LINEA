@@ -27,7 +27,7 @@
             figure
               img(src='@/assets/curso/temas/t2/t2_02.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
-            p.mb-0 Realice un seguimiento de cada cliente y mantenga un contacto frecuente con el: uno de los beneficios de un servicio posventa eficiente es que puede conectarse con sus clientes, comprender si su compra fue satisfactoria, reconocer los pros y los contras del proceso y obtener comentarios para identificar puntos de mejora. El seguimiento ayuda tanto a analizar el escenario como a recordarle al cliente que la empresa se preocupa por su satisfacción y necesidades. Una manera fácil de mantenerse en contacto con sus clientes es usando el correo electrónico. Al obtener contenido realmente relevante, estos sin duda alguna serán leales al producto.
+            p.mb-0 Realice un seguimiento de cada cliente y mantenga un contacto frecuente con él: uno de los beneficios de un servicio posventa eficiente es que puede conectarse con sus clientes, comprender si su compra fue satisfactoria, reconocer los pros y los contras del proceso y obtener comentarios para identificar puntos de mejora. El seguimiento ayuda tanto a analizar el escenario como a recordarle al cliente que la empresa se preocupa por su satisfacción y necesidades. Una manera fácil de mantenerse en contacto con sus clientes es usando el correo electrónico. Al obtener contenido realmente relevante, estos sin duda alguna serán leales al producto.
 
         .row.justify-content-center.align-items-center(titulo="Paso 2")       
           .col-lg-4.col-md-10.col-12.order-2.order-lg-1
@@ -89,7 +89,7 @@
 
                 div(x="9.5%" y="48%" numero="1")  
                   h4 Soporte técnico                
-                  p Brinde un soporte técnico de calidad #[em online] en tiempo real, no lo vea como un requisito para cumplir, por el contrario, asúmalo como una obligación de la empresa, si los productos que usted comercializa tienen un alto grado de complejidad, (haciendo alusión a temas técnicos) asegúrese de tener una persona idónea para que pueda dar respuesta a cualquier tipo de solicitud técnica, esta tarea puede ser un poco desgastante los primeros meses y va disminuir a medida que el cliente se familiarice con el producto,  tenga presente que si su producto o productos son de bajo costo en caso de presentar un problema técnico el cliente le exija un cambio de producto o en su defecto la devolución del dinero, esto no sería beneficioso para usted, por ello asegúrese de que sus productos por sencillos que sean cuenten con un alto grado de calidad, aproveche todo el entorno de las redes sociales, chats en vivo y  correos electrónicos, y por qué no utilizar los tickets de soporte técnico.
+                  p Brinde un soporte técnico de calidad #[em online] en tiempo real, no lo vea como un requisito para cumplir, por el contrario, asúmalo como una obligación de la empresa, si los productos que usted comercializa tienen un alto grado de complejidad, (haciendo alusión a temas técnicos) asegúrese de tener una persona idónea para que pueda dar respuesta a cualquier tipo de solicitud técnica, esta tarea puede ser un poco desgastante los primeros meses y va a disminuir a medida que el cliente se familiarice con el producto,  tenga presente que si su producto o productos son de bajo costo en caso de presentar un problema técnico el cliente le exija un cambio de producto o en su defecto la devolución del dinero, esto no sería beneficioso para usted, por ello asegúrese de que sus productos por sencillos que sean cuenten con un alto grado de calidad, aproveche todo el entorno de las redes sociales, chats en vivo y  correos electrónicos, y por qué no utilizar los tickets de soporte técnico.
 
                 div(x="19.5%" y="72%" numero="2") 
                   h4  Garantías              
@@ -153,7 +153,7 @@
           .row.justify-content-center.align-items-center
             .col-12            
               img(src='@/assets/curso/temas/t2/t2_11.svg' alt='AvatarTop').img90.m-auto.mb-4                   
-              p.mb-0 Determine muy bien los objetivos de requiere obtener de la encuesta, que información concreta necesita del insumo.
+              p.mb-0 Determine muy bien los objetivos que requiere obtener de la encuesta, qué información concreta necesita del insumo.
 
         .crd.clr--paleGreen.brd--rad.hg--100.p-4
           .row.justify-content-center.align-items-center
@@ -189,14 +189,14 @@
           .row.justify-content-center.align-items-center
             .col-12            
               img(src='@/assets/curso/temas/t2/t2_17.svg' alt='AvatarTop').img90.m-auto.mb-4                   
-              p.mb-0 Utilice un tipo de letra de fácil entendimiento (Arial, Times New Roman, Verdada) con un tamaño adecuado. 
+              p.mb-0 Utilice un tipo de letra de fácil entendimiento (Arial, Times New Roman, Verdana) con un tamaño adecuado. 
 
     .row.justify-content-center(data-aos="zoom-in").mb-5
       .col-lg-10
         .cajon.cjn--purple.p-4      
           p.mb-0 Hoy en día las encuestas en línea son las más utilizadas por la gran mayoría de personas, ya que por medio de estas se optimizan recursos valiosos como dinero y tiempo (rapidez y bajo costo), por ejemplo, se podría hablar de los formularios que ofrece (Google Forms) esta herramienta optimiza el resultado de una encuesta de manera eficaz, precisa y organizada.
 
-    p(data-aos="fade").mb-5 Una encuesta #[em online] le permitirán tener una mejor cobertura de acuerdo al tipo de población al que esté orientada y al tipo de mercado al cual esté dirigido, es importante tener en cuenta que este tipo de encuesta no requiere que las personas encuestadas se encuentren en el mismo lugar y tampoco se necesita contratar personas para que desarrollen la encuesta, además se facilita el uso de gráficos e imágenes full color lo que hará que la encuesta visualmente sea llamativa, además, el análisis de los datos consignados y resultados se pueden obtener en tiempo real.
+    p(data-aos="fade").mb-5 Una encuesta #[em online] le permitirá tener una mejor cobertura de acuerdo al tipo de población al que esté orientada y al tipo de mercado al cual esté dirigido, es importante tener en cuenta que este tipo de encuesta no requiere que las personas encuestadas se encuentren en el mismo lugar y tampoco se necesita contratar personas para que desarrollen la encuesta, además se facilita el uso de gráficos e imágenes full color lo que hará que la encuesta visualmente sea llamativa, además, el análisis de los datos consignados y resultados se pueden obtener en tiempo real.
 
     .row(data-aos="fade").mb-4
         .col-auto
@@ -205,7 +205,7 @@
         .col
           h3.customH3 Características de una encuesta
 
-    p(data-aos="fade") Por lo general las encuestas cuentan con preguntas específicas, orientadas a temas en especial, es un insumo de opinión pública que a través de preguntas específicas se obtiene una información específica, de una u otra forma una encuesta busca persuadir o influir a la audiencia, es un insumo demasiado valioso al momento de ser aplicado por especialistas, expertos y profesionales de proyectos, tenga en cuenta que no solo se hacen encuestas al momento de lanzar al mercado un producto, ya que se podrán utilizar dentro de procesos existen en busca de mejora  o medir comportamientos de productos de acuerdo a tendencias del momento, teniendo esto claro revise en el recurso propuesto  en el que conocerá algunos sugerencias para  aplicarlas y ponerlas en práctica:
+    p(data-aos="fade") Por lo general las encuestas cuentan con preguntas específicas, orientadas a temas en especial, es un insumo de opinión pública que a través de preguntas específicas se obtiene una información específica, de una u otra forma una encuesta busca persuadir o influir a la audiencia, es un insumo demasiado valioso al momento de ser aplicado por especialistas, expertos y profesionales de proyectos, tenga en cuenta que no solo se hacen encuestas al momento de lanzar al mercado un producto, ya que se podrán utilizar dentro de procesos existentes en busca de mejora  o medir comportamientos de productos de acuerdo a tendencias del momento, teniendo esto claro revise en el recurso propuesto  en el que conocerá algunas sugerencias para  aplicarlas y ponerlas en práctica:
 
     ImagenInfografica.color-acento-botones(data-aos="fade").mb-5
       template(v-slot:imagen)
@@ -216,7 +216,7 @@
         p.mb-0 Diseñe una encuesta breve buscando que el encuestado responda de forma precisa y concisa, en una encuesta menos, es más, téngalo presente.
 
       .tarjeta.clr--paleYellow.p-3(x="19.5%" y="35.5%" numero="+")        
-        p.mb-0 Esté focalizado hacia un solo tema, esto facilitara la lectura y desarrollo de la encuesta, y de igual forma un #[em feedback] para quien  la desarrolló.
+        p.mb-0 Esté focalizado hacia un solo tema, esto facilitará la lectura y desarrollo de la encuesta, y de igual forma un #[em feedback] para quien  la desarrolló.
 
       .tarjeta.clr--paleYellow.p-3(x="25%" y="57%" numero="+")            
         p.mb-0 La encuesta debe ser clara y directa (redacte y explique de la forma adecuada).
@@ -231,16 +231,16 @@
         p.mb-0 Para tener el resultado esperado por lo menos debe estar dirigida a un promedio de 30 a 50 personas.
 
       .tarjeta.clr--paleYellow.p-3(x="47.2%" y="57%" numero="+")      
-        p.mb-0 Tenga presente que la encuesta sea de carácter investigativo es el ADN del insumo.      
+        p.mb-0 Tenga presente que la encuesta sea de carácter investigativo, es el ADN del insumo.      
 
       .tarjeta.clr--paleYellow.p-3(x="52.7%" y="35.5%" numero="+")      
-        p.mb-0 Las respuestas deber ser de carácter confidencial, con el fin de darle tranquilidad al encuestado. 
+        p.mb-0 Las respuestas deben ser de carácter confidencial, con el fin de darle tranquilidad al encuestado. 
 
       .tarjeta.clr--paleYellow.p-3(x="58.2%" y="57%" numero="+")
         p.mb-0 Determine cuál es el proceso interpretativo de la información y el tiempo que requiere para ello.  
        
       .tarjeta.clr--paleYellow.p-3(x="63.7%" y="35.5%" numero="+")    
-        p.mb-0 La encuesta debe pensarse de manera estratégicas ,se debe desarrollar de acuerdo a la audiencia.  
+        p.mb-0 La encuesta debe pensarse de manera estratégica, se debe desarrollar de acuerdo a la audiencia.  
 
       .tarjeta.clr--paleYellow.p-3(x="69.2%" y="57%" numero="+")
         p.mb-0 Las preguntas deben ser  formuladas de forma lógica con el fin de que las respuestas fluyan.   
@@ -267,7 +267,7 @@
         .crd.clr--grad_Green_01.p-3
           .row.justify-content-center.align-items-center
             .col-lg-8.mb-4.mb-lg-0
-              p.mb-0 Un registro simboliza un solo objeto de datos expresamente estructurados en una tabla. En pocas palabras, puede pensar en una tabla de base de datos compuesta por filas, campos y columnas. Dejando claro que cada fila de la tabla hace parte de un conjunto de datos relacionados y las filas de una misma tabla poseen la misma organización, de igual forma un registro hace referencia al conjunto de espacios asignados que contienen. Se les asigna automáticamente un número de serie (número de registro). Esto a veces se usa como un índice, pero generalmente es conveniente asignar un campo clave para buscar en cada registro.
+              p.mb-0 Un registro simboliza un solo objeto de datos expresamente estructurados en una tabla. En pocas palabras, puede pensar en una tabla de base de datos compuesta por filas, campos y columnas. Dejando claro que cada fila de la tabla hace parte de un conjunto de datos relacionados y las filas de una misma tabla poseen la misma organización, de igual forma un registro hace referencia al conjunto de espacios asignados que contiene. Se les asigna automáticamente un número de serie (número de registro). Esto a veces se usa como un índice, pero generalmente es conveniente asignar un campo clave para buscar en cada registro.
             .col-lg-4.col-8
               figure
                 img(src="@/assets/curso/temas/t2/t2_19.png", alt="alt")
@@ -309,7 +309,7 @@
     .crd.clr--paleGreen.p-4(data-aos="zoom-in").mb-4
       .row.justify-content-center.align-items-center
         .col-lg-8.mb-4
-          p Cuando se trata de una investigación cuantitativa lo primero que se debe realizar es un diseño de recolección de datos para generar un muestreo, aquí se podrá tomar como referencia los formatos de encuestas, y sus metodologías, las cuales pueden ser en persona, vía telefónica o en línea, tenga en cuenta en tener las preguntas bien definidas para analizarlas posteriormente, de igual forma si cuenta con una dato secundario, no olvide de donde proviene la información, por general son fuentes secundarias.
+          p Cuando se trata de una investigación cuantitativa lo primero que se debe realizar es un diseño de recolección de datos para generar un muestreo, aquí se podrá tomar como referencia los formatos de encuestas, y sus metodologías, las cuales pueden ser en persona, vía telefónica o en línea, tenga en cuenta que las preguntas estén bien definidas para analizarlas posteriormente, de igual forma si cuenta con un dato secundario, no olvide de dónde proviene la información, por lo general son fuentes secundarias.
           p.mb-0 Al momento de hablar de una investigación cualitativa se hace referencia a un tema netamente exploratorio el cual es utilizado para comprender razones y motivos sobre temas específicos, y ayudan a formular hipótesis para posibles indagaciones cuantitativas. Tenga en cuenta que los métodos de recopilación de datos cualitativos analizan los motivos de la decisión.
         .col-lg-4.col-8
           figure
@@ -341,7 +341,7 @@
             figure.mb-4
               img(src="@/assets/curso/temas/recursos/triangle_02.svg", alt="alt").img90
 
-    p(data-aos="fade") Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato se está trabajando. Los formatos por lo general están vinculados a un #[em software] y #[em hardware] específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, recuerde obtener el #[em software] apropiado sé que necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.              
+    p(data-aos="fade") Al crear, procesar y administrar datos investigativos, se debe comprender con qué formato se está trabajando. Los formatos por lo general están vinculados a un #[em software] y #[em hardware] específicos, por lo que la reutilización futura depende de la disponibilidad a mediano y largo plazo. Por lo tanto, al usar un formato cerrado, recuerde obtener el #[em software] apropiado que se necesita para poder actualizarlo y acceder a este en el momento que se requiera sin que tenga algún limitante.              
 
 
 </template>

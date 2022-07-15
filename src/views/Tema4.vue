@@ -48,7 +48,7 @@
     .row.justify-content-center.mb-4
       .col-lg-8(data-aos="fade")
         p De acuerdo a los requerimientos de cada empresa y para un mejor entendimiento entre sus colaboradores, los reportes de ventas, le brindará la información necesaria para una excelente toma de decisiones e incluso para que sus vendedores puedan comprender, los objetivos del presupuesto de ventas proyectado.
-        p Los reportes de ventas pueden presentarse de manera resumida, promediando el total de ventas y observar el avance y/o el porcentaje de crecimiento ventas alcanzado. Los reportes de ganancias y pérdidas de clientes, le muestran las cotizaciones que realizaron los vendedores, seguimientos a los objetivos buscados y porcentaje de la consecución anual de clientes.
+        p Los reportes de ventas pueden presentarse de manera resumida, promediando el total de ventas y observar el avance y/o el porcentaje de crecimiento de ventas alcanzado. Los reportes de ganancias y pérdidas de clientes, le muestran las cotizaciones que realizaron los vendedores, seguimientos a los objetivos buscados y porcentaje de la consecución anual de clientes.
       .col-lg-4.col-8(data-aos="zoom-in")
         figure.mb-4
           img(src="@/assets/curso/temas/t4/t4_04.png", alt="alt")

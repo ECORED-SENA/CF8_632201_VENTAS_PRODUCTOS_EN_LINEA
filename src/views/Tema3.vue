@@ -107,7 +107,7 @@
                         | Determina el sistema de almacenamiento de los datos y de igual forma, asigne un nombre para cada archivo.
                       li 
                         i.fas.fa-check
-                        | Desarrolle con anticipación el cuestionario, en el caso de encuestas o entrevistas esto le asegurara consistencia en la información y no detener el proceso de recolección de datos.
+                        | Desarrolle con anticipación el cuestionario, en el caso de encuestas o entrevistas esto le asegurará consistencia en la información y no detener el proceso de recolección de datos.
                       li.mb-0 
                         i.fas.fa-check
                         | Organice el registro de datos por fechas.         
@@ -152,14 +152,15 @@
 
       figure
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/pjTI4UOgkM8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+         
 
     separador
 
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 3.3 Interpretación de resultados
 
-    p(data-aos="fade") La interpretación de datos es la parte final de un proceso de investigación y recolección de información, y para llegar a esta última etapa es importante contar con una serie de elementos que le brindaran el resultado esperados de acuerdo a su estrategia de interacción por intermedio de los insumos anteriormente contextualizados. 
+    p(data-aos="fade") La interpretación de datos es la parte final de un proceso de investigación y recolección de información, y para llegar a esta última etapa es importante contar con una serie de elementos que le brindarán el resultado esperado de acuerdo a su estrategia de interacción por intermedio de los insumos anteriormente contextualizados. 
 
     .bg_gradient_03.py-4
       .row.justify-content-center.mb-4
@@ -187,7 +188,7 @@
                 | Analice detalladamente la finalidad de cada pregunta y cuál es el resultado de acuerdo a su propósito.
               li 
                 i.fas.fa-check
-                | Revise si el encuestado pudo haberse confundido por que la pregunta no era clara o los interrogantes no eran claros.
+                | Revise si el encuestado pudo haberse confundido porque la pregunta no era clara o los interrogantes no eran claros.
               li 
                 i.fas.fa-check
                 | La forma en cómo se estructure una encuesta le dará la clave a la intención específica de cada pregunta.
@@ -222,14 +223,14 @@
               figure
                 img(src="@/assets/curso/temas/t3/t3_13.svg", alt="alt").img60.m-auto
             .col(data-aos="fade")
-              p.mb-0 Describa detalladamente; datos geográficos, demográficos de los encuestados, donde se realiza la encuesta es decir lugar específico (oficina, calle, ciudad, departamento, etc) que formato utilizo para realizar la encuesta (PDF, CSV, Excel), quien realiza la encuesta y el tipo de cuestionario que utilizo para desarrollar el ejercicio.
+              p.mb-0 Describa detalladamente; datos geográficos, demográficos de los encuestados, dónde se realiza la encuesta es decir lugar específico (oficina, calle, ciudad, departamento, etc) qué formato utilizó para realizar la encuesta (PDF, CSV, Excel), quien realiza la encuesta y el tipo de cuestionario que utilizo para desarrollar el ejercicio.
           .hr--line(data-aos="fade")
           .row.justify-content-center.align-items-center.mb-3
             .col-auto(data-aos="zoom-in")
               figure
                 img(src="@/assets/curso/temas/t3/t3_14.svg", alt="alt").img60.m-auto
             .col(data-aos="fade")
-              p.mb-0 Describa detalladamente cual es objetivo de la encuesta, de cada pregunta y cuál es la finalidad de esta.
+              p.mb-0 Describa detalladamente cuál es el objetivo de la encuesta, de cada pregunta y cuál es la finalidad de esta.
           .hr--line(data-aos="fade")
           .row.justify-content-center.align-items-center.mb-3
             .col-auto(data-aos="zoom-in")
