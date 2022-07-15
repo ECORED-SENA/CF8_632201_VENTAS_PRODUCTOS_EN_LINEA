@@ -171,7 +171,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="01") 
               h4.ps-4 <i>Determine cuáles #[em LEADS] están listos para hacerles seguimiento:</i>  
-              p.ps-4.mb-0 Debe hacer un análisis de los datos que obtenga de los #[em LEADS], sobre el interés que han mostrado por los productos y servicios ofertados, cuál es el tipo de empresa y que necesidades presenta. Con estos datos puede determinar el cliente puede convertirse en un cliente fiel y determinar el trato que debe tener, es decir realizar una clasificación del cliente exponencial a futuro y con esto, deberá disponer de la persona de ventas adecuada que logre efectivamente cerrar la venta con LEAD. Esta clasificación de #[em LEADS], le permite, contactar en el momento adecuado, escoger su personal acertado, convencer a su nuevo cliente más fácilmente y conseguir clientes fieles de manera óptima.              
+              p.ps-4.mb-0 Debe hacer un análisis de los datos que obtenga de los #[em LEADS], sobre el interés que han mostrado por los productos y servicios ofertados, cuál es el tipo de empresa y que necesidades presenta. Con estos datos puede determinar el cliente puede convertirse en un cliente fiel y determinar el trato que debe tener, es decir realizar una clasificación del cliente exponencial a futuro y con esto, deberá disponer de la persona de ventas adecuada que logre efectivamente cerrar la venta con #[em LEAD]. Esta clasificación de #[em LEADS], le permite, contactar en el momento adecuado, escoger su personal acertado, convencer a su nuevo cliente más fácilmente y conseguir clientes fieles de manera óptima.              
           .col-11.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_16.svg')
@@ -180,7 +180,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="02") 
               h4.ps-4 <i>El tiempo lo es todo, ¿cuándo se debe hacer un seguimiento?</i>  
-              p.ps-4.mb-0 El mejor momento para realizar un primer contacto con un LEAD, es inmediatamente cuando el LEAD muestra interés en los productos y servicios. Los #[em LEADS] que estén interesados en los productos y que van a comprar, les atraerá, la atención inmediata que le suministre el personal de ventas y si no lo hace una empresa, la competencia estará lista para quedarse con los #[em LEADS]. Cuando un equipo de ventas, atiende a los #[em LEADS], podrá aprovechar para obtener de ellos datos específicos de sus intereses vs productos.             
+              p.ps-4.mb-0 El mejor momento para realizar un primer contacto con un #[em LEAD], es inmediatamente cuando el #[em LEAD] muestra interés en los productos y servicios. Los #[em LEADS] que estén interesados en los productos y que van a comprar, les atraerá, la atención inmediata que le suministre el personal de ventas y si no lo hace una empresa, la competencia estará lista para quedarse con los #[em LEADS]. Cuando un equipo de ventas, atiende a los #[em LEADS], podrá aprovechar para obtener de ellos datos específicos de sus intereses vs productos.             
           .col-11.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_17.svg')
@@ -189,7 +189,7 @@
           .col-lg-8.mb-4.mb-lg-0.pt-5.pt-0.position-relative 
             .number(data-number="03") 
               h4.ps-4 <i>Conocer dónde están, ¿cómo hacer un seguimiento?</i>  
-              p.ps-4.mb-0 Inicialmente, determine qué tipo de comunicación prefieren los #[em LEADS], ya sea presencialmente, por teléfono, por chats, por correo o mensajes de texto y es la primera buena impresión que van a tener de la empresa y que no se van a incomodar. Seguido a esto, el contenido de la primera entrevista con un LEAD, debe ser muy atrayente e impactante, que el contenido haga que el LEAD se interese más por los productos y llegue a un cierre exitoso de venta.              
+              p.ps-4.mb-0 Inicialmente, determine qué tipo de comunicación prefieren los #[em LEADS], ya sea presencialmente, por teléfono, por chats, por correo o mensajes de texto y es la primera buena impresión que van a tener de la empresa y que no se van a incomodar. Seguido a esto, el contenido de la primera entrevista con un #[em LEAD], debe ser muy atrayente e impactante, que el contenido haga que el #[em LEAD] se interese más por los productos y llegue a un cierre exitoso de venta.              
           .col-11.col-lg-4
             figure
               img(src='@/assets/curso/temas/t4/t4_18.svg')
@@ -239,14 +239,14 @@
               figure
                 img(src='@/assets/curso/temas/t4/t4_23.png', alt='')          
             .col-lg-7
-              p.mb-0 La velocidad con la que los vendedores responden a los clientes potenciales, es una medición importante, de la capacidad productiva de cada vendedor. Esto tiene que ver, con la atención que cada vendedor dispuesto a cada LEAD en los momentos apropiados, inmediatos. Para hacer esta clase de mediciones, tenga en cuenta el tiempo que le lleva a un equipo de trabajo, enviar una primera respuesta y divídalo por la cantidad de solicitudes de clientes que obtuvieron una primera respuesta.
+              p.mb-0 La velocidad con la que los vendedores responden a los clientes potenciales, es una medición importante, de la capacidad productiva de cada vendedor. Esto tiene que ver, con la atención que cada vendedor dispuesto a cada #[em LEAD] en los momentos apropiados, inmediatos. Para hacer esta clase de mediciones, tenga en cuenta el tiempo que le lleva a un equipo de trabajo, enviar una primera respuesta y divídalo por la cantidad de solicitudes de clientes que obtuvieron una primera respuesta.
 
           .row.justify-content-center.align-items-center(titulo="Tasa de <em>follow up</em> (acompañamiento)")
             .col-lg-5.col-8.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/t4/t4_24.png', alt='')          
             .col-lg-7
-              p.mb-0 Esta métrica, le permite evaluar la capacidad que tiene un vendedor de acompañar al LEAD en todo el proceso de compra. Cuando un vendedor le demuestra un interés genuino y le da un verdadero apoyo al LEAD, el cierre de venta va a ser mucho más fácil y generoso.
+              p.mb-0 Esta métrica, le permite evaluar la capacidad que tiene un vendedor de acompañar al #[em LEAD] en todo el proceso de compra. Cuando un vendedor le demuestra un interés genuino y le da un verdadero apoyo al #[em LEAD], el cierre de venta va a ser mucho más fácil y generoso.
 
 
  

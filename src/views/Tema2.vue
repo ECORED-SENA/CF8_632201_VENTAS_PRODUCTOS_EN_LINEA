@@ -101,7 +101,7 @@
 
                 div(x="40%" y="72%" numero="4")   
                   h4 Seguimiento posventa               
-                  p Realice un seguimiento postventa detallado de la compra, cuando un cliente acaba de pagar un producto se genera un periodo de inseguridad, ya que el cliente podrá sentirse tranquilo al momento de recibir el producto en sus manos, mantenga siempre informado a su cliente de dónde parte el producto, quién lo transporta, dónde se encuentra en un momento determinado y cuál es el periodo de entrega, esto hará que su cliente sienta tranquilidad y credibilidad, hoy en día es muy fácil ya que la gran mayoría de las empresas especializadas en transportar elementos cuentan con plataformas de #[em tracking], con el código de envío se puede monitorear el pedido en tiempo real.
+                  p Realice un seguimiento posventa detallado de la compra, cuando un cliente acaba de pagar un producto se genera un periodo de inseguridad, ya que el cliente podrá sentirse tranquilo al momento de recibir el producto en sus manos, mantenga siempre informado a su cliente de dónde parte el producto, quién lo transporta, dónde se encuentra en un momento determinado y cuál es el periodo de entrega, esto hará que su cliente sienta tranquilidad y credibilidad, hoy en día es muy fácil ya que la gran mayoría de las empresas especializadas en transportar elementos cuentan con plataformas de #[em tracking], con el código de envío se puede monitorear el pedido en tiempo real.
 
                 div(x="50%" y="48%" numero="5") 
                   h4 Encuestas de satisfaccción                 
@@ -121,7 +121,7 @@
 
                 div(x="90.3%" y="48%" numero="9")  
                   h4 Evite campañas invasivas                
-                  p Evite las campañas invasivas, ya que los clientes podrán sentirse saturados e incomodos en algún momento, sea prudente y analice el mercado con el fin de hacer una campaña de #[em marketing] en el momento indicado, sus clientes estarán al tanto de su producto y sin duda harán el proceso de compra con usted.
+                  p Evite las campañas invasivas, ya que los clientes podrán sentirse saturados e incómodos en algún momento, sea prudente y analice el mercado con el fin de hacer una campaña de #[em marketing] en el momento indicado, sus clientes estarán al tanto de su producto y sin duda harán el proceso de compra con usted.
       
         p(data-aos="fade") Teniendo en cuenta lo anterior #[strong ¿cuál sería el compromiso que estaría dispuesto a asumir usted con un cliente potencial, recurrente en este escenario de la posventa?]
 
