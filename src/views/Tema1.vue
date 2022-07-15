@@ -53,7 +53,7 @@
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
             h4 La primera visita
-            p Es el momento en el que una persona se dirige a determinada  empresa para observar y analizar los productos y/o servicios y saber si le gustan o no, puede ser que el cliente no compre nada (esto es muy frecuente), o que el cliente compre, pero en otro momento (por lo general es un cliente en duda), o  puente pasar también, que compre inmediatamente (por lo general el 25% de los clientes que entran a un punto de venta por primera vez y realizan una compra, se convierten en clientes fieles)   
+            p Es el momento en el que una persona se dirige a determinada  empresa para observar y analizar los productos y/o servicios y saber si le gustan o no, puede ser que el cliente no compre nada (esto es muy frecuente), o que el cliente compre, pero en otro momento (por lo general es un cliente en duda), o  puede pasar también, que compre inmediatamente (por lo general el 25 % de los clientes que entran a un punto de venta por primera vez y realizan una compra, se convierten en clientes fieles)   
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/t1/t1_08.png', alt='')
@@ -71,7 +71,7 @@
         .row.justify-content-center
           .col-lg-7.mb-4.mb-md-0
             h4 Visitas repetidas
-            p ya en este punto se encuentran clientes satisfechos, atentos a las diferentes promociones de la empresa, incluso con el ánimo de apoyar, opinar y discrepar en asuntos de interés en común.
+            p Ya en este punto se encuentran clientes satisfechos, atentos a las diferentes promociones de la empresa, incluso con el ánimo de apoyar, opinar y discrepar en asuntos de interés en común.
           .col-lg-4
             figure
               img(src='@/assets/curso/temas/t1/t1_10.png', alt='')
@@ -99,35 +99,35 @@
     .row.justify-content-center(data-aos="zoom-in")
       .col-lg-10
         SlyderF.mb-5(columnas="col-lg-6 col-xl-6")
-          .crd.crd--avatarH.p-4
+          .crd.crd--avatarH.clr--01.p-4
             .row.justify-content-center.align-items-center.middleY
               .col-auto
                 img(src='@/assets/curso/temas/t1/t1_13.svg' alt='AvatarTop')
               .col            
                 p.mb-0 Un cliente fiel es un consumidor en potencia para una empresa.
 
-          .crd.crd--avatarH.p-4
+          .crd.crd--avatarH.clr--02.p-4
             .row.justify-content-center.align-items-center.middleY
               .col-auto
                 img(src='@/assets/curso/temas/t1/t1_14.svg' alt='AvatarTop')
               .col            
                 p.mb-0 Un cliente satisfecho da a conocer su experiencia por intermedio de redes sociales.
 
-          .crd.crd--avatarH.p-4
+          .crd.crd--avatarH.clr--01.p-4
             .row.justify-content-center.align-items-center.middleY
               .col-auto
                 img(src='@/assets/curso/temas/t1/t1_15.svg' alt='AvatarTop')
               .col        
                 p.mb-0 Un cliente fidelizado no le interesa acudir a la competencia, ya que el producto o servicio cumple con todas las expectativas.
 
-          .crd.crd--avatarH.p-4
+          .crd.crd--avatarH.clr--02.p-4
             .row.justify-content-center.align-items-center.middleY
               .col-auto
                 img(src='@/assets/curso/temas/t1/t1_16.svg' alt='AvatarTop')
               .col         
                 p.mb-0 Una cliente fiel siempre está a la expectativa de tendencias y productos novedosos, aproveche esto para hacer de las redes sociales un fuerte aliado comercial.
 
-          .crd.crd--avatarH.p-4
+          .crd.crd--avatarH.clr--01.p-4
             .row.justify-content-center.align-items-center.middleY
               .col-auto
                 img(src='@/assets/curso/temas/t1/t1_17.svg' alt='AvatarTop')
@@ -160,7 +160,7 @@
     #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade")
       h2 1.3 Aplicación de la retroalimentación
 
-    p(data-aos="fade") Para contar con una buena retroalimentación por parte de los clientes es fundamental contar con canales de comunicación adecuada que generen confianza y seguridad en el usuario. Un cliente totalmente satisfecho expresa su opinión de acuerdo a su experiencia. Por ende, es fundamental escucharlo y hacerlo partícipe de las novedades de la empresa, si se obtienen respuestas acertadas por parte del cliente se sabrá que mejorar, cambiar o innovar. 
+    p(data-aos="fade") Para contar con una buena retroalimentación por parte de los clientes es fundamental contar con canales de comunicación adecuada que generen confianza y seguridad en el usuario. Un cliente totalmente satisfecho expresa su opinión de acuerdo a su experiencia. Por ende, es fundamental escucharlo y hacerlo partícipe de las novedades de la empresa, si se obtienen respuestas acertadas por parte del cliente se sabrá qué mejorar, cambiar o innovar. 
 
     .row.justify-content-center.mb-5
       .col-lg-8
@@ -197,7 +197,7 @@
         p.mb-0 Convertir la retroalimentación negativa en una opción de venta, tomar como referencia la retroalimentación para que esta sea una opción de mejora.
 
       .tarjeta.clr--paleYellow.p-3(x="85.5%" y="45%" numero="+")           
-        p.mb-0 Tomar las mejores decisiones para la empresa, no se debe suponer, es importante recopilar información con al cual se pueda implementar una estrategia de mercado.    
+        p.mb-0 Tomar las mejores decisiones para la empresa, no se debe suponer, es importante recopilar información con la cual se pueda implementar una estrategia de mercado.    
 
 
 </template>

@@ -1,1 +1,1 @@
-module.exports = 'Seguimiento y control ventas'
+module.exports = 'Seguimiento y control de ventas'

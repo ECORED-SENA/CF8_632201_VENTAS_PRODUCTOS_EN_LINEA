@@ -118,6 +118,12 @@
       background-color: #8C5BE1
 
 //// Tarjetas
+
+.clr--01
+  background-color: #ECF3FB
+.clr--02
+  background-color: #ECE5F7
+
 .crd
   &.brd--rad
     border-radius: 20px 
@@ -136,7 +142,6 @@
       right: 0
       width: calc( 100% - 65px )
       height: 100%
-      background-color: #ECF3FB
 
   &.crd--avatarH_02
     position: relative
@@ -152,7 +157,10 @@
       height: 100%
       background-color: #FDF3E1 
       border-radius: 20px
-
+  &.custom01    
+    width: 100%
+    padding: 1rem
+    background-color: #ECF3FB
 
 ///// Custom Bg 
 .bg_img_01, .bg_img_02, .bg_img_03, .bg_gradient_01, .bg_gradient_03
@@ -235,6 +243,13 @@
       p
         font-size: 0.85em
 
+  @media (max-width: 500px)  
+    .crd_hover_txt--body
+      h4 
+        font-size: 1em
+      p
+        font-size: 0.8em
+
 ///// SLyder A tipo B Custom
 .slyder-a__tipo-b .slyder-a__btn--atrs
   background-color: #EEAC3A
@@ -291,3 +306,28 @@
 
 .pasos-b.color-acento-contenido .pasos-b__header__item--active .pasos-b__header__item__dot span
   color: white
+
+////// tabs b
+.tabs-b__tab--active, .tabs-b__content-item
+  background-color: rgb(253,243,225)
+
+////// Linea de tiempo
+.linea-tiempo-c__header__btn, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .pasos-b__header__btn--left, .pasos-b__header__btn--right
+  background-color: #EEAC3A
+  border: 2px solid #EEAC3A
+
+////// Actividad didáctica
+.img-infografica-b__modal
+  background-color: #FDF3E1
+.img-infografica-b__modal__btn-cerrar i
+  color: black
+.img-infografica-b__modal__contenido
+  h4, p
+    color: $color-sistema-texto !important
+
+.img-infografica__item__tooltip, .img-infografica-b__item__tooltip
+  display: none
+
+.tarjeta--azul
+  background-color: #ECF3FB
+

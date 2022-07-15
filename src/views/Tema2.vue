@@ -14,7 +14,7 @@
         .col-xl-10
           .row.justify-content-center
             .col-lg-8.order-2.order-lg-1
-              p(data-aos="fade") De esta manera, se debe tener garantizado el soporte que brinda el fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio posventa debe seguir una serie de requerimientos fundamentales con el fin de #[span.hg--purple fidelizar al 100% a los clientes]. La búsqueda de clientes es una tarea constante de las empresas y microempresas y para ello se debe crear una cultura de lealtad. 
+              p(data-aos="fade") De esta manera, se debe tener garantizado el soporte que brinda el fabricante en caso de que se requieran reparaciones, devoluciones o reemplazos. Tenga en cuenta que para realizar un adecuado servicio posventa debe seguir una serie de requerimientos fundamentales con el fin de #[span.hg--purple fidelizar al 100 % a los clientes]. La búsqueda de clientes es una tarea constante de las empresas y microempresas y para ello se debe crear una cultura de lealtad. 
               p Para conocer los pasos necesarios para diseñar una estrategia del proceso de posventa revise con atención el siguiente recurso: 
             .col-lg-4.col-8.order-1.order-lg-2.mb-4
               figure(data-aos="zoom-in")
@@ -23,42 +23,42 @@
     .crd.clr--paleYellow.brd--rad(data-aos="zoom-in").p-4
       LineaTiempoC.color-acento-contenido(text-small)
         .row.justify-content-center.align-items-center(titulo="Paso 1")       
-          .col-lg-4.col-8.order-2.order-lg-1
+          .col-lg-4.col-md-10.col-12.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_02.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
-            p.mb-0 Realice un seguimiento de cada cliente y mantenga un contacto frecuente con el: Uno de los beneficios de un servicio posventa eficiente es que puede conectarse con sus clientes, comprender si su compra fue satisfactoria, reconocer los pros y los contras del proceso y obtener comentarios para identificar puntos de mejora. El seguimiento ayuda tanto a analizar el escenario como a recordarle al cliente que la empresa se preocupa por su satisfacción y necesidades. Una manera fácil de mantenerse en contacto con sus clientes es usando el correo electrónico. Al obtener contenido realmente relevante, estos sin duda alguna serán leales al producto.
+            p.mb-0 Realice un seguimiento de cada cliente y mantenga un contacto frecuente con el: uno de los beneficios de un servicio posventa eficiente es que puede conectarse con sus clientes, comprender si su compra fue satisfactoria, reconocer los pros y los contras del proceso y obtener comentarios para identificar puntos de mejora. El seguimiento ayuda tanto a analizar el escenario como a recordarle al cliente que la empresa se preocupa por su satisfacción y necesidades. Una manera fácil de mantenerse en contacto con sus clientes es usando el correo electrónico. Al obtener contenido realmente relevante, estos sin duda alguna serán leales al producto.
 
         .row.justify-content-center.align-items-center(titulo="Paso 2")       
-          .col-lg-4.col-8.order-2.order-lg-1
+          .col-lg-4.col-md-10.col-12.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_03.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             p.mb-0 Diseñe un programa de fidelización, estas son estrategias que buscan acercarse de manera constante a los consumidores con el fin de brindarles recompensas y beneficios, con experiencias que pueden ser personalizadas y relevantes con un producto, el programa de fidelización le brinda la posibilidad de conocer datos más aproximados sobre los clientes que puede usarse para personalizar los productos y establecer estrategias de mejora.
 
         .row.justify-content-center.align-items-center(titulo="Paso 3")       
-          .col-lg-4.col-8.order-2.order-lg-1
+          .col-lg-4.col-md-10.col-12.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_04.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             p.mb-0 Mantenga informados a los clientes sobre lanzamientos de nuevos productos , con los datos que recolecta del paso número dos, ya que esto le puede generar un tráfico constante de visitantes a sus sitios web y por ende, un alto porcentaje de compra de acuerdo a sus productos, variedades y promociones.
 
         .row.justify-content-center.align-items-center(titulo="Paso 4")       
-          .col-lg-4.col-8.order-2.order-lg-1
+          .col-lg-4.col-md-10.col-12.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_05.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
-            p.mb-0 Una estrategia ideal es la enviar regalos en fechas especiales, por ejemplo, un cumpleaños, esto hará que la experiencia del cliente hacia el producto crezca de manera notable, se sentirá parte de importante de la empresa.
+            p.mb-0 Una estrategia ideal es la de enviar regalos en fechas especiales, por ejemplo, un cumpleaños, esto hará que la experiencia del cliente hacia el producto crezca de manera notable, se sentirá parte importante de la empresa.
 
         .row.justify-content-center.align-items-center(titulo="Paso 5")       
-          .col-lg-4.col-8.order-2.order-lg-1
+          .col-lg-4.col-md-10.col-12.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_06.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
             p.mb-0 Implemente una plataforma de CRM, esto le permitirá integrar la gran mayoría de actividades posventa, ya que es un soporte multicanal que permite tener toda la información de los clientes en un solo espacio.
 
         .row.justify-content-center.align-items-center(titulo="Paso 6")       
-          .col-lg-4.col-8.order-2.order-lg-1
+          .col-lg-4.col-md-10.col-12.order-2.order-lg-1
             figure
               img(src='@/assets/curso/temas/t2/t2_07.png', alt='')
           .col-lg-7.order-1.order-lg-2.mb-4.mb-lg-0
@@ -67,7 +67,7 @@
     separador
             
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade")
-      h2 2.1 Definición y etapas
+      h2 2.1 Seguimiento y fidelización 
 
     p(data-aos="fade") Como ya se mencionó antes estas corresponden a acciones que realiza una empresa para mantenerse en contacto con sus clientes, por ejemplo, una breve encuesta de satisfacción preguntando cómo fue la experiencia de compra, cómo le fue con los productos y servicios, si funcionaron como se esperaba y si cumplieron con sus expectativas.
 
@@ -82,39 +82,48 @@
               p(data-aos="fade") Es importante tener clara la manera como debe llevar a cabo un proceso posventa, es fundamental un adecuado seguimiento de cliente con el fin fidelizar y captar también nuevos clientes, no solo se trata de hacer una venta y dejar ir cliente, es necesario tenerlo en una base de datos pues este podría ser a futuro un cliente potencial.
               p(data-aos="fade").mb-4 Dentro del ejercicio de posventa se deben plantear algunas tareas puntuales, para conocerlas revise con atención el recurso propuesto. 
 
-              ImagenInfografica.color-acento-botones(data-aos="zoom-in").mb-5
+              ImagenInfograficaB.color-acento-botones.mb-5
                 template(v-slot:imagen)
                   figure
                     img(src='@/assets/curso/temas/t2/t2_09.svg', alt='Texto que describa la imagen')                    
 
-                .tarjeta.clr--paleYellow.p-3(x="9.5%" y="48%" numero="1")                  
+                div(x="9.5%" y="48%" numero="1")  
+                  h4 Soporte técnico                
                   p Brinde un soporte técnico de calidad #[em online] en tiempo real, no lo vea como un requisito para cumplir, por el contrario, asúmalo como una obligación de la empresa, si los productos que usted comercializa tienen un alto grado de complejidad, (haciendo alusión a temas técnicos) asegúrese de tener una persona idónea para que pueda dar respuesta a cualquier tipo de solicitud técnica, esta tarea puede ser un poco desgastante los primeros meses y va disminuir a medida que el cliente se familiarice con el producto,  tenga presente que si su producto o productos son de bajo costo en caso de presentar un problema técnico el cliente le exija un cambio de producto o en su defecto la devolución del dinero, esto no sería beneficioso para usted, por ello asegúrese de que sus productos por sencillos que sean cuenten con un alto grado de calidad, aproveche todo el entorno de las redes sociales, chats en vivo y  correos electrónicos, y por qué no utilizar los tickets de soporte técnico.
 
-                .tarjeta.clr--paleYellow.p-3(x="19.5%" y="72%" numero="2")                  
-                  p Cuente con garantías ante daños en los productos, tenga en cuenta que una garantía casi que es un requerimiento legal, tenga presente que si asegura tener una garantía ampliada será una estrategia adecuada para seguir fidelizando clientes, la garantía consiste en brindarle al cliente una respuesta objetiva de un producto en caso de daño, defectos de fabricación o fallas, siempre explique con claridad que cubre y no cubre la garantía, durante cuánto tiempo, de esta forma el cliente sabrá a que está expuesto y no presentara algún tipo de inconformidad referente al producto adquirido.
+                div(x="19.5%" y="72%" numero="2") 
+                  h4  Garantías              
+                  p Cuente con garantías ante daños en los productos, tenga en cuenta que una garantía casi que es un requerimiento legal, tenga presente que si asegura tener una garantía ampliada será una estrategia adecuada para seguir fidelizando clientes, la garantía consiste en brindarle al cliente una respuesta objetiva de un producto en caso de daño, defectos de fabricación o fallas, siempre explique con claridad qué cubre y no cubre la garantía, durante cuánto tiempo, de esta forma el cliente sabrá a que está expuesto y no presentará algún tipo de inconformidad referente al producto adquirido.
 
-                .tarjeta.clr--paleYellow.p-3(x="30%" y="48%" numero="3")                  
+                div(x="30%" y="48%" numero="3") 
+                  h4 Cambios y devoluciones                
                   p Permita realizar cambios y devoluciones de los productos, dentro de las ventas #[em online] es recurrente que al momento de hacer un cambio, el cliente no lo embale adecuadamente y esta sufra algún daño al momento de ser transportado y devuelto a su punto de origen, para ello determine un procedimiento ágil y fácil para el comprador, para hacer cambio de productos o en su defecto devolución de dinero, sea cuidadoso al momento de vender, ya que en una alto porcentaje los clientes no siempre están satisfechos con los productos que compran #[em online], si usted diseña una buena estrategia su cliente se sentirá a gusto con el producto, con la empresa y seguirá realizando compras.
 
-                .tarjeta.clr--paleYellow.p-3(x="40%" y="72%" numero="4")                  
-                  p Realice un seguimiento post venta detallado de la compra, cuando un cliente que acaba de pagar un producto se genera un periodo de inseguridad, ya que el cliente podrá sentirse tranquilo al momento de recibir el producto en sus manos, mantenga siempre informado a su cliente de donde parte el producto, quien lo transporta, donde se encuentra en un momento determinado y cuál es el periodo de entrega, esto hará que su cliente sienta tranquilidad y credibilidad, hoy en día es muy fácil ya que la gran mayoría de las empresas especializadas en transportar elementos cuentan con plataformas de #[em tracking], con el código de envió se puede monitorear el pedido en tiempo real.
+                div(x="40%" y="72%" numero="4")   
+                  h4 Seguimiento posventa               
+                  p Realice un seguimiento postventa detallado de la compra, cuando un cliente acaba de pagar un producto se genera un periodo de inseguridad, ya que el cliente podrá sentirse tranquilo al momento de recibir el producto en sus manos, mantenga siempre informado a su cliente de dónde parte el producto, quién lo transporta, dónde se encuentra en un momento determinado y cuál es el periodo de entrega, esto hará que su cliente sienta tranquilidad y credibilidad, hoy en día es muy fácil ya que la gran mayoría de las empresas especializadas en transportar elementos cuentan con plataformas de #[em tracking], con el código de envío se puede monitorear el pedido en tiempo real.
 
-                .tarjeta.clr--paleYellow.p-3(x="50%" y="48%" numero="5")                  
-                  p Diseñe una encuesta de satisfacción para los clientes (es importante conocer la opinión) y envíela un par de días después de que hayan realizado una compra, donde la opinión y recomendaciones de ellos sean una oportunidad de mejora para la empresa, posterior a esto sistematice y analice que puede concluir al momento de recibir el #[em feedback], de esta forma el cliente se sentirá importante y afianzara su fidelidad con la empresa.
+                div(x="50%" y="48%" numero="5") 
+                  h4 Encuestas de satisfaccción                 
+                  p Diseñe una encuesta de satisfacción para los clientes (es importante conocer la opinión) y envíela un par de días después de que hayan realizado una compra, donde la opinión y recomendaciones de ellos sean una oportunidad de mejora para la empresa, posterior a esto sistematice y analice qué puede concluir al momento de recibir el #[em feedback], de esta forma el cliente se sentirá importante y afianzará su fidelidad con la empresa.
 
-                .tarjeta.clr--paleYellow.p-3(x="60%" y="72%" numero="6")                  
-                  p El tiempo es valioso para un cliente, no deje pasar demasiado tiempo después de realizada la compra, comuníquese con sus clientes y este presto a cualquier inquietud.
+                div(x="60%" y="72%" numero="6") 
+                  h4 Manejo del tiempo                 
+                  p El tiempo es valioso para un cliente, no deje pasar demasiado tiempo después de realizada la compra, comuníquese con sus clientes y esté presto a cualquier inquietud.
 
-                .tarjeta.clr--paleYellow.p-3(x="70%" y="48%" numero="7")                  
-                  p Si vende un producto determinado envié consejos de como optimizar su uso es decir ganar el valor posventa, ofrezca campañas de lanzamiento de nuevos productos.
+                div(x="70%" y="48%" numero="7")  
+                  h4 Valor posventa                
+                  p Si vende un producto determinado envíe consejos de cómo optimizar su uso es decir ganar el valor posventa, ofrezca campañas de lanzamiento de nuevos productos.
 
-                .tarjeta.clr--paleYellow.p-3(x="80.3%" y="72%" numero="8")                  
+                div(x="80.3%" y="72%" numero="8")  
+                  h4 Servicio de mantenimiento                 
                   p Muy importante brinde servicios de mantenimiento y/o asesoramiento si el producto lo requiere, esto hará que los clientes se sientan respaldados por su empresa y seguros al momento de realizar una compra.
 
-                .tarjeta.clr--paleYellow.p-3(x="90.3%" y="48%" numero="9")                  
+                div(x="90.3%" y="48%" numero="9")  
+                  h4 Evite campañas invasivas                
                   p Evite las campañas invasivas, ya que los clientes podrán sentirse saturados e incomodos en algún momento, sea prudente y analice el mercado con el fin de hacer una campaña de #[em marketing] en el momento indicado, sus clientes estarán al tanto de su producto y sin duda harán el proceso de compra con usted.
       
-        p(data-aos="fade") Teniendo en cuenta lo anterior #[strong ¿cuál sería el compromiso que estaría dispuesto asumir usted con un cliente potencial, recurrente en este escenario de la posventa?]
+        p(data-aos="fade") Teniendo en cuenta lo anterior #[strong ¿cuál sería el compromiso que estaría dispuesto a asumir usted con un cliente potencial, recurrente en este escenario de la posventa?]
 
     separador
 

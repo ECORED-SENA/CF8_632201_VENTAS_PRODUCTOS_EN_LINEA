@@ -22,7 +22,7 @@
     p.mb-5(data-aos="fade") En el siguiente recurso, se mencionan algunos aspectos a tener en cuenta para apoyar la toma de decisiones por medio de los datos 
 
     .row.justify-content-center(data-aos="zoom-in")
-      .col-lg-10
+      .col-lg-12
         figure
           img(src="@/assets/curso/temas/t3/t3_02.svg", alt="alt")
 
@@ -197,12 +197,16 @@
       .row.justify-content-center
         .col-lg-10
           .row.justify-content-center.mb-4
-            .col-lg-6.col-10.mb-4.mb-lg-0(data-aos="flip-left")
+            .col-lg-6.col-10.mb-4.mb-lg-0.position-relative(data-aos="flip-left")
               figure
                 img(src="@/assets/curso/temas/t3/t3_10.svg", alt="alt")
+              .crd.custom01
+                p.text-center.mb-0 Plasme una síntesis general de la encuesta que realizó.
             .col-lg-6.col-10(data-aos="flip-left")
               figure
                 img(src="@/assets/curso/temas/t3/t3_11.svg", alt="alt")
+              .crd.custom01
+                p.text-center.mb-0 Plasme la interpretación de los datos en gráficos en su totalidad.
 
           p(data-aos="fade").mb-5 los datos de una encuesta se podrán presentar de la siguiente manera:
           .hr--line(data-aos="fade")

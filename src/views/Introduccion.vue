@@ -10,7 +10,7 @@
       h1 Introducción
 
     .cajon.cjn--green.p-4.mb-4(data-aos="zoom-in")
-      p.mb-0 Bienvenido a este componente formativo denominado #[strong “Seguimiento y control ventas”], para comenzar el recorrido por el mismo, observe con atención el siguiente video que le dará una introducción sobre el tema: 
+      p.mb-0 Bienvenido a este componente formativo denominado #[strong “Seguimiento y control de ventas”], para comenzar el recorrido por el mismo, observe con atención el siguiente video que le dará una introducción sobre el tema: 
 
     
     figure

@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Seguimiento y control ventas',
+    componenteFormativo: 'Seguimiento y control de ventas',
     descripcionCurso:
       'El cliente es el motor de cualquier empresa por pequeña que sea, la atención al cliente es una tarea que no se debe dejar de lado, los clientes fidelizados son la mejor estrategia de comercialización de cualquier tipo de producto, no solo se trata de hacer una venta, es importante hacer seguimiento, el <i>feedback</i> es la mejor estrategia de éxito y  posicionamiento de una empresa.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -111,7 +111,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Datos Cuantitativos y Datos Cualitativos',
+            titulo: 'Datos cuantitativos y datos cualitativos',
             hash: 't_3_2',
           },
           {
@@ -126,13 +126,13 @@ export default {
         nombreRuta: 'tema4',
         icono: 'far fa-file-alt',
         numero: '4',
-        titulo: 'Realización de un Reporte',
+        titulo: 'Realización de un reporte',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '4.1',
-            titulo: 'Presentación de Reportes',
+            titulo: 'Presentación de reportes',
             hash: 't_4_1',
           },
           {
