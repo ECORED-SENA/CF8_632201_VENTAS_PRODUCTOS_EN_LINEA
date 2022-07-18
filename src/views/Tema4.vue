@@ -230,14 +230,14 @@
           .row.justify-content-center.align-items-center(titulo="Ventas por vendedor")
             .col-lg-5.col-8.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/t4/t4_22.png', alt='')          
+                img(src='@/assets/curso/temas/t4/t4_23.png', alt='')          
             .col-lg-7
               p.mb-0 Individualmente se debe evaluar la capacidad productiva por cada vendedor y de esta manera, saber cómo se encuentra frente a un presupuesto individual de ventas. Para estas mediciones, existen cuatro metodologías enfocadas en prácticas corporativas, competencias específicas de sus funciones, análisis de la productividad y la percepción del equipo respecto al vendedor. 
 
           .row.justify-content-center.align-items-center(titulo="Tiempo de respuesta a los clientes potenciales")
             .col-lg-5.col-8.mb-4.mb-lg-0
               figure
-                img(src='@/assets/curso/temas/t4/t4_23.png', alt='')          
+                img(src='@/assets/curso/temas/t4/t4_22.png', alt='')          
             .col-lg-7
               p.mb-0 La velocidad con la que los vendedores responden a los clientes potenciales, es una medición importante, de la capacidad productiva de cada vendedor. Esto tiene que ver, con la atención que cada vendedor dispuesto a cada #[em LEAD] en los momentos apropiados, inmediatos. Para hacer esta clase de mediciones, tenga en cuenta el tiempo que le lleva a un equipo de trabajo, enviar una primera respuesta y divídalo por la cantidad de solicitudes de clientes que obtuvieron una primera respuesta.
 
