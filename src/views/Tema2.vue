@@ -196,7 +196,7 @@
         .cajon.cjn--purple.p-4      
           p.mb-0 Hoy en día las encuestas en línea son las más utilizadas por la gran mayoría de personas, ya que por medio de estas se optimizan recursos valiosos como dinero y tiempo (rapidez y bajo costo), por ejemplo, se podría hablar de los formularios que ofrece (Google Forms) esta herramienta optimiza el resultado de una encuesta de manera eficaz, precisa y organizada.
 
-    p(data-aos="fade").mb-5 Una encuesta #[em online] le permitirá tener una mejor cobertura de acuerdo al tipo de población al que esté orientada y al tipo de mercado al cual esté dirigido, es importante tener en cuenta que este tipo de encuesta no requiere que las personas encuestadas se encuentren en el mismo lugar y tampoco se necesita contratar personas para que desarrollen la encuesta, además se facilita el uso de gráficos e imágenes full color lo que hará que la encuesta visualmente sea llamativa, además, el análisis de los datos consignados y resultados se pueden obtener en tiempo real.
+    p(data-aos="fade").mb-5 Una encuesta #[em online] le permitirá tener una mejor cobertura de acuerdo al tipo de población al que esté orientada y al tipo de mercado al cual esté dirigido, es importante tener en cuenta que este tipo de encuesta no requiere que las personas encuestadas se encuentren en el mismo lugar y tampoco se necesita contratar personas para que desarrollen la encuesta, además se facilita el uso de gráficos e imágenes full color lo que hará que la encuesta visualmente sea llamativa, además, el análisis de los datos consignados y resultados se pueden obtener en tiempo real.    
 
     .row(data-aos="fade").mb-4
         .col-auto
@@ -205,54 +205,20 @@
         .col
           h3.customH3 Características de una encuesta
 
-    p(data-aos="fade") Por lo general las encuestas cuentan con preguntas específicas, orientadas a temas en especial, es un insumo de opinión pública que a través de preguntas específicas se obtiene una información específica, de una u otra forma una encuesta busca persuadir o influir a la audiencia, es un insumo demasiado valioso al momento de ser aplicado por especialistas, expertos y profesionales de proyectos, tenga en cuenta que no solo se hacen encuestas al momento de lanzar al mercado un producto, ya que se podrán utilizar dentro de procesos existentes en busca de mejora  o medir comportamientos de productos de acuerdo a tendencias del momento, teniendo esto claro revise en el recurso propuesto  en el que conocerá algunas sugerencias para  aplicarlas y ponerlas en práctica:
+    p(data-aos="fade").mb-5 Por lo general las encuestas cuentan con preguntas específicas, orientadas a temas en especial, es un insumo de opinión pública que a través de preguntas específicas se obtiene una información específica, de una u otra forma una encuesta busca persuadir o influir a la audiencia, es un insumo demasiado valioso al momento de ser aplicado por especialistas, expertos y profesionales de proyectos, tenga en cuenta que no solo se hacen encuestas al momento de lanzar al mercado un producto, ya que se podrán utilizar dentro de procesos existentes en busca de mejora  o medir comportamientos de productos de acuerdo a tendencias del momento.
 
-    ImagenInfografica.color-acento-botones(data-aos="fade").mb-5
-      template(v-slot:imagen)
-        figure
-          img(src='@/assets/curso/temas/t2/t2_18.svg', alt='Texto que describa la imagen')                    
+    .tarjeta.clr--paleBlue.p-4.p-md-5.mb-5
+      .row.justify-content-around.align-items-center
+        .col-8.col-sm-6.col-md-4.mb-4.mb-md-0
+          img(src="@/assets/componentes/info.svg")
 
-      .tarjeta.clr--paleYellow.p-3(x="14%" y="57%" numero="+")            
-        p.mb-0 Diseñe una encuesta breve buscando que el encuestado responda de forma precisa y concisa, en una encuesta menos, es más, téngalo presente.
-
-      .tarjeta.clr--paleYellow.p-3(x="19.5%" y="35.5%" numero="+")        
-        p.mb-0 Esté focalizado hacia un solo tema, esto facilitará la lectura y desarrollo de la encuesta, y de igual forma un #[em feedback] para quien  la desarrolló.
-
-      .tarjeta.clr--paleYellow.p-3(x="25%" y="57%" numero="+")            
-        p.mb-0 La encuesta debe ser clara y directa (redacte y explique de la forma adecuada).
-
-      .tarjeta.clr--paleYellow.p-3(x="30.5%" y="35.5%" numero="+")        
-        p.mb-0 Utilice un formato sencillo pero llamativo (el tiempo es fundamental en una encuesta).
-
-      .tarjeta.clr--paleYellow.p-3(x="36%" y="57%" numero="+")            
-        p.mb-0 Las preguntas deben ser precisas evitando que se presenten otras interpretaciones. 
-
-      .tarjeta.clr--paleYellow.p-3(x="41.5%" y="35.5%" numero="+")        
-        p.mb-0 Para tener el resultado esperado por lo menos debe estar dirigida a un promedio de 30 a 50 personas.
-
-      .tarjeta.clr--paleYellow.p-3(x="47.2%" y="57%" numero="+")      
-        p.mb-0 Tenga presente que la encuesta sea de carácter investigativo, es el ADN del insumo.      
-
-      .tarjeta.clr--paleYellow.p-3(x="52.7%" y="35.5%" numero="+")      
-        p.mb-0 Las respuestas deben ser de carácter confidencial, con el fin de darle tranquilidad al encuestado. 
-
-      .tarjeta.clr--paleYellow.p-3(x="58.2%" y="57%" numero="+")
-        p.mb-0 Determine cuál es el proceso interpretativo de la información y el tiempo que requiere para ello.  
-       
-      .tarjeta.clr--paleYellow.p-3(x="63.7%" y="35.5%" numero="+")    
-        p.mb-0 La encuesta debe pensarse de manera estratégica, se debe desarrollar de acuerdo a la audiencia.  
-
-      .tarjeta.clr--paleYellow.p-3(x="69.2%" y="57%" numero="+")
-        p.mb-0 Las preguntas deben ser  formuladas de forma lógica con el fin de que las respuestas fluyan.   
-
-      .tarjeta.clr--paleYellow.p-3(x="75%" y="35.5%" numero="+")          
-        p.mb-0 Una característica muy importante es la escala de valoración lógica de la encuesta con el fin contextualizar de la mejor manera el insumo.
-
-      .tarjeta.clr--paleYellow.p-3(x="80.5%" y="57%" numero="+")          
-        p.mb-0 Plantee una encuesta democrática, con preguntas que sean de fácil entendimiento
-
-      .tarjeta.clr--paleYellow.p-3(x="86%" y="35.5%" numero="+")          
-        p.mb-0 Plantee estrategias para cautivar a un público a responder la encuesta.       
+        .col-md.col-lg-6
+          h3 Infografía
+          p.mb-4 En el siguiente recurso infográfico se dan a conocer algunas sugerencias para el diseño y aplicación de una encuesta. 
+          
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/sugerencias_para_aplicar_encuensta.pdf')" target="_blank" type="application/pdf")
+            span Descargar
+            i.fas.fa-file-download   
       
 
     separador
