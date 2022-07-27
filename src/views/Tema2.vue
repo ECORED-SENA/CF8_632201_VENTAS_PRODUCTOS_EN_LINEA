@@ -216,7 +216,7 @@
           h3 Infografía
           p.mb-4 En el siguiente recurso infográfico se dan a conocer algunas sugerencias para el diseño y aplicación de una encuesta. 
           
-          a.boton.color-acento-botones(:href="obtenerLink('/downloads/sugerencias_para_aplicar_encuensta.pdf')" target="_blank" type="application/pdf")
+          a.boton.color-acento-botones(:href="obtenerLink('/downloads/sugerencias_para_aplicar_encuestas.pdf')" target="_blank" type="application/pdf")
             span Descargar
             i.fas.fa-file-download   
       
